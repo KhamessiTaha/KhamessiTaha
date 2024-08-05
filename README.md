@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://tahakhamessi.my.canva.site/)
 <h1 align="center">Hi 👋, I'm Taha Khamessi</h1>
-<h3 align="center">A passionate Software Engineer and a Deep Learning Enthusiast from Tunisia</h3>
+<h3 align="center">A passionate Computer Science Graduate and a Deep Learning Enthusiast from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
