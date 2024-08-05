@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=0e75b6&style=flat" alt="khamessitaha" /> </p>
 
-- 🔭 I’m currently working on **Face Recognition System**
+- 🔭 I’m currently working on **Particle Simulator**
 
 - 🌱 I’m currently learning **IBM Data Science Professional Certificate**
 
