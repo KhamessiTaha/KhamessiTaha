@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **IBM Data Science Professional Certificate**
 
-- 👨‍💻 All of my projects are available at [https://tahakhamessi.my.canva.site/](https://tahakhamessi.my.canva.site/)
+- 👨‍💻 All of my projects are available at [https://khamessitaha.github.io/my-portfolio](https://tahakhamessi.github.io/my-portfolio/)
 
 - 💬 Ask me about **Deep Learning and Software Development**
 
