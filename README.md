@@ -49,7 +49,7 @@
 
 
 
-## Star and Follow or this snake is gonna eats your contributions too! 🐍<br />
+## Star and Follow or this snake is going to eat your contributions too! 🐍<br />
 
 
 ![snake gif](https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg)
