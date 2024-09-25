@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://amaranth-ursola-82.tiiny.site/](https://amaranth-ursola-82.tiiny.site/)
 
-- ⚡ Fun fact **I don't blame the planets and the stars for my actions.**
+- ⚡ Fun fact **I don't hold the planets and stars responsible for my choices.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
