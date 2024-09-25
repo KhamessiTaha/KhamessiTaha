@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical" alt="khamessitaha" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-- 🔭 I’m currently working on **Face Recognition System**
+- 🔭 I’m currently working on [2024 NASA Web App Challenge](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/create-an-orrery-web-app-that-displays-near-earth-objects/)
 
 - 🌱 I’m currently learning **IBM Data Science Professional Certificate**
 
