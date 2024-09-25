@@ -38,10 +38,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=khamessitaha&theme=ambient_gradient&show_icons=true&locale=en" alt="khamessitaha" /></p> <br />
-##
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=ambient_gradient" alt="khamessitaha" /></p> <br />
-##
+
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=ambient_gradient" alt="khamessitaha" /></p> <br />
+
 
 ## Star and Follow before this snake eats your contributions! 🐍<br />
 
