@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://tahakhamessi.my.canva.site/)
 <h1 align="center">Hi 👋, I'm Taha Khamessi.</h1>
 <h3 align="center">A passionate Software Developer and a Deep Learning Enthusiast from Tunisia</h3>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=0e75b6&style=flat" alt="khamessitaha" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical" alt="khamessitaha" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 - 🔭 I’m currently working on **Face Recognition System**
 
 - 🌱 I’m currently learning **IBM Data Science Professional Certificate**
