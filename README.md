@@ -43,4 +43,4 @@
 
 ##Star and follow so this snake doesn't eat your contributions 🐍
 
-![snake gif](https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg)
+<img align="center" alt="Coding" width="400" src='https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg'
