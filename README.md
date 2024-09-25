@@ -41,6 +41,3 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=ambient_gradient" alt="khamessitaha" /></p>
 
-##Star and follow so this snake doesn't eat your contributions 🐍
-
-<img align="center" alt="Coding" width="400" src='https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg'
