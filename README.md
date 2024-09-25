@@ -8,7 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical" alt="khamessitaha" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-- 🔭 I’m currently working on ** NASA Web App Challenge **
+
+- 🔭 I’m currently working on **2024 NASA Web App Challenge**
 
 - 🌱 I’m currently learning **IBM Data Science Professional Certificate**
 
