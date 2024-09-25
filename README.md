@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **2024 NASA Web App Challenge**
 
-- 🌱 I’m currently learning **IBM Data Science Professional Certificate**
+- 🌱 I’m currently learning **THREE.js and Unity**
 
 - 👨‍💻 All of my projects are available at [https://tahakhamessi.my.canva.site/](https://tahakhamessi.my.canva.site/)
 
