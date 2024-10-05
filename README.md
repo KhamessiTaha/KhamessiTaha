@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🔭 I’m currently working on **2024 NASA Space App Challenge**
+- 🔭 I’m currently working on **2024 NASA International Space Apps Challenge**
 
 - 🌱 I’m currently learning **THREE.js and Unity**
 
