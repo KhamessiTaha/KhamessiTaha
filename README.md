@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **taha.khamessi@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://amaranth-ursola-82.tiiny.site/)
+- 📄 Know about my experiences [My Resume](https://beige-josephine-8.tiiny.site)
 
 - ⚡ Fun fact **I don't hold the planets and stars responsible for my choices.**
 
