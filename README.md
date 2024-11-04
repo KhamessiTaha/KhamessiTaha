@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **THREE.js and Unity**
 
-- 👨‍💻 All of my projects are available at [https://khamessitaha.github.io/](https://khamessitaha.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://khamessitaha.github.io/)
 
 - 💬 Ask me about **Deep Learning and Software Development**
 
