@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Taha%20Khamessi&fontSize=70&desc=Space%20Technology%20|%20Full%20Stack%20|%20ML%20|%203D%20Graphics&animation=twinkling&fontColor=fff&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Taha%20Khamessi&fontSize=70&desc=Software%20Developer%20|%20Full%20Stack%20|%20ML%20|%203D%20Graphics&animation=twinkling&fontColor=fff&descAlignY=65" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Exploring+Space+Technology+%F0%9F%8C%8C;Creating+Immersive+3D+Experiences+%F0%9F%8E%AE;Developing+AI+Solutions+%F0%9F%A4%96;NASA+Space+Apps+Challenge+Leader+%F0%9F%8C%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Exploring+Space+Technology+%F0%9F%8C%8C;Creating+Immersive+3D+Experiences+%F0%9F%8E%AE;Developing+AI+Solutions+%F0%9F%A4%96;2024+NASA+Space+Apps+Challenge+Global+Nominee+%F0%9F%8C%8F" alt="Typing SVG" />
   </a>
 </p>
 
