@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Innovating+at+the+intersection+of+space+%26+code+🚀;NASA+Space+Apps+Challenge+Leader+🌍;Building+AI-powered+space+solutions+🤖;Creating+immersive+3D+experiences+🎮;Let's+explore+the+digital+frontier+together+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Innovating+at+the+intersection+of+space+%26+code+🚀;2024+NASA+Space+Apps+Challenge+Global+Nominee+🌍;Building+AI-powered+solutions+🤖;Creating+immersive+3D+experiences+🎮;Let's+explore+the+digital+frontier+together+✨" alt="Typing SVG" />
   </a>
 </div>
 
