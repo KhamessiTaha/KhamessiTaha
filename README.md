@@ -26,18 +26,8 @@
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300" align="right" alt="Space Developer Animation" />
 </div>
 
-```typescript
-interface SpaceExplorer {
-  name: string;
-  title: string;
-  location: string;
-  available: boolean;
-  skills: string[];
-  currentProject: string;
-  contact: string;
-}
-
-const taha: SpaceExplorer = {
+```javascript
+const taha = {
   name: "Taha Khamessi",
   title: "Full Stack Developer & ML Enthusiast",
   location: "Tunisia 🌍",
@@ -54,9 +44,10 @@ const taha: SpaceExplorer = {
 };
 
 class Philosophy {
-  static readonly quote: string = 
-    "I don't hold the planets and stars " +
-    "responsible for my choices.";
+  static get quote() {
+    return "I don't hold the planets and stars " +
+           "responsible for my choices.";
+  }
 }
 ```
 
