@@ -180,10 +180,38 @@ mindmap
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjfDPKrs)
 </div>
 
+### 🎯 Skills & Expertise
+
 <div align="center">
-  <h2>🎯 Skill Radar</h2>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=khamessitaha&skills=JavaScript,TypeScript,Python,Java,React,Angular&width=820" alt="Coding Skills" />
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px'}}}%%
+pie showData
+    title Core Technology Distribution
+    "Frontend & 3D" : 30
+    "Machine Learning & AI" : 25
+    "Backend & DevOps" : 25
+    "Space Technology" : 20
+```
+
+| 💻 Programming  | 🎨 Frontend & 3D | 🤖 AI & ML | ⚙️ Backend & DevOps |
+|----------------|-----------------|------------|-------------------|
+| ![Python](https://img.shields.io/badge/Python-★★★★★-00C9FF?style=flat-square&logo=python) | ![React](https://img.shields.io/badge/React-★★★★★-00C9FF?style=flat-square&logo=react) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-92FE9D?style=flat-square&logo=tensorflow) | ![Node.js](https://img.shields.io/badge/Node.js-★★★★★-00C9FF?style=flat-square&logo=node.js) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-00C9FF?style=flat-square&logo=javascript) | ![Three.js](https://img.shields.io/badge/Three.js-★★★★★-00C9FF?style=flat-square&logo=three.js) | ![PyTorch](https://img.shields.io/badge/PyTorch-★★★★☆-92FE9D?style=flat-square&logo=pytorch) | ![Docker](https://img.shields.io/badge/Docker-★★★★☆-92FE9D?style=flat-square&logo=docker) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-92FE9D?style=flat-square&logo=typescript) | ![Angular](https://img.shields.io/badge/Angular-★★★★☆-92FE9D?style=flat-square&logo=angular) | ![scikit--learn](https://img.shields.io/badge/scikit--learn-★★★★☆-92FE9D?style=flat-square&logo=scikit-learn) | ![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-92FE9D?style=flat-square&logo=mongodb) |
+| ![Java](https://img.shields.io/badge/Java-★★★★☆-92FE9D?style=flat-square&logo=java) | ![Unity](https://img.shields.io/badge/Unity-★★★★☆-92FE9D?style=flat-square&logo=unity) | ![OpenCV](https://img.shields.io/badge/OpenCV-★★★★☆-92FE9D?style=flat-square&logo=opencv) | ![Spring](https://img.shields.io/badge/Spring-★★★★☆-92FE9D?style=flat-square&logo=spring) |
+
 </div>
+
+### 📊 Weekly Development Breakdown
+
+```text
+JavaScript   █████████████░░░░░░░░░   45.2%
+Python       ████████░░░░░░░░░░░░░   25.8%
+TypeScript   ██████░░░░░░░░░░░░░░░   15.3%
+HTML/CSS     ████░░░░░░░░░░░░░░░░░   10.2%
+Other        ██░░░░░░░░░░░░░░░░░░░   3.5%
+```
 
 ### 🌌 Recent Space Missions (Projects)
 
