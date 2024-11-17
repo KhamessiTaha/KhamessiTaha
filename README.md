@@ -39,7 +39,7 @@ interface SpaceExplorer {
 
 const taha: SpaceExplorer = {
   name: "Taha Khamessi",
-  title: "Full Stack & ML Engineer",
+  title: "Full Stack Developer & ML Enthusiast",
   location: "Tunisia 🌍",
   available: true,
   skills: [
@@ -49,7 +49,7 @@ const taha: SpaceExplorer = {
     "3D Graphics",
     "Real-time Systems"
   ],
-  currentProject: "NASA Space Apps Challenge",
+  currentProject: "2024 NASA Space Apps Challenge",
   contact: "taha.khamessi@gmail.com"
 };
 
@@ -97,12 +97,7 @@ mindmap
       WebGL
     UI/UX
       Tailwind
-      SASS
       Material UI
-    State Management
-      Redux
-      NgRx
-      MobX
 ```
 
 </div>
@@ -117,7 +112,7 @@ mindmap
 mindmap
   root((AI & ML))
     Deep Learning
-      TensorFlow
+      TensorFlow/Lite
       PyTorch
       Keras
     Computer Vision
@@ -128,10 +123,7 @@ mindmap
       Pandas
       NumPy
       Scikit-learn
-    MLOps
-      MLflow
-      DVC
-      Weights & Biases
+      
 ```
 
 </div>
@@ -152,15 +144,15 @@ mindmap
     Database
       MongoDB
       MySQL
-      Firebase
+      Firebase/Firestore
     DevOps
       Docker
-      Kubernetes
       CI/CD
-    Cloud
-      AWS
-      GCP
-      Azure
+    Hosting
+      Netlify
+      Github Pages
+      Vercel
+      Firebase Hosting
 ```
 
 </div>
