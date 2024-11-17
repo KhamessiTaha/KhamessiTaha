@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://khamessitaha.github.io/)
 
-- 💬 Ask me about **Deep Learning and Software Development**
+- 💬 Ask me about **Deep Learning and Space**
 
 - 📫 How to reach me **taha.khamessi@gmail.com**
 
