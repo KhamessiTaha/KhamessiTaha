@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Taha%20Khamessi&fontSize=70&desc=Space%20Tech%20Engineer%20|%20Full%20Stack%20|%20AI%20Explorer&animation=twinkling&fontColor=fff&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Taha%20Khamessi&fontSize=70&desc=Software%20Developer%20|%20Full%20Stack%20|%20AI%20Explorer&animation=twinkling&fontColor=fff&descAlignY=65" />
 </div>
 
 <div align="center">
