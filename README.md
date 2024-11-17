@@ -1,147 +1,182 @@
 <div align="center">
   
-  <!-- Custom Banner Animation -->
-  [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Taha%20Khamessi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Deep%20Learning%20Enthusiast%20|%20Space%20Tech&descAlignY=51&descAlign=62)](https://tahakhamessi.my.canva.site/)
+  <!-- Dynamic 3D Header -->
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://tahakhamessi.my.canva.site/)
+  
+  <!-- 3D Text Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=3BACF7&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+Taha's+Digital+Cosmos!+%F0%9F%8C%8C;Where+Code+Meets+Creativity+%F0%9F%8E%A8;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <!-- Animated Badge Collection -->
+  <p>
+    <img src="https://img.shields.io/badge/Space_Explorer-Ready_For_Launch-blueviolet?style=for-the-badge&logo=spacex&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Status-Coding_In_Progress-success?style=for-the-badge&logo=matrix&logoColor=white" />
+    <img src="https://img.shields.io/badge/Coffee_Level-Optimal-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </p>
+
+  <!-- Dynamic Island Stats -->
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khamessitaha&theme=moonlight)
 
 </div>
 
-<!-- Introduction with Typing Animation -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Space+Technology+Explorer+%F0%9F%9A%80;Software+Architect+%F0%9F%8F%97%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
-</h1>
+<!-- Animated Introduction Section -->
+## 🌌 Welcome to My Universe!
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="https://khamessitaha.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
-  <a href="https://beige-josephine-8.tiiny.site"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
-  <img src="https://img.shields.io/github/followers/khamessitaha?logo=github&style=for-the-badge" alt="followers" />
-</p>
-
-<!-- Animated Code GIF -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-
-## 🧬 About Me
-
-```javascript
-const taha = {
-    pronouns: "He" | "Him",
-    location: "Tunisia 🌍",
-    current_focus: "2024 NASA International Space Apps Challenge 🛸",
-    learning: ["THREE.js", "Unity", "Advanced ML Architectures"],
-    interests: ["Deep Learning", "Space Tech", "Innovation"],
-    favorite_quote: "I don't hold the planets and stars responsible for my choices 🌌",
-    contact: "taha.khamessi@gmail.com",
-    fun_fact: "I can explain quantum computing while cooking pasta! 🍝"
-};
+```python
+class TahaKhamessi:
+    def __init__(self):
+        self.name = "Taha Khamessi"
+        self.role = "Software Developer & Deep Learning Enthusiast"
+        self.location = "🌍 Tunisia"
+        self.current_project = "2024 NASA International Space Apps Challenge 🛸"
+        self.knowledge_base = ["Deep Learning", "Space Tech", "Full-Stack Dev"]
+        self.interests = ["Quantum Computing", "Astronomy", "AI Ethics"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together! 🚀")
+    
+    def get_skills(self):
+        return {
+            "AI & ML": ["TensorFlow", "PyTorch", "Scikit-learn", "Computer Vision"],
+            "Web Dev": ["React", "Angular", "Node.js", "THREE.js"],
+            "DevOps": ["Docker", "Kubernetes", "CI/CD"],
+            "Languages": ["Python", "JavaScript", "TypeScript", "Java", "C++"]
+        }
+        
+    def daily_routine(self):
+        return ["☕ Coffee", "💻 Code", "🧠 Learn", "🔄 Repeat"]
 ```
 
-<!-- GitHub Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
-</div>
+<!-- Animated Skill Bars -->
+## 🎯 Skill Arsenal
+```
+AI/ML           ███████████████████░░   95%
+Space Tech      ██████████████████░░░   90%
+Full-Stack Dev  ███████████████████░░   95%
+Problem Solving ██████████████████░░░   90%
+Innovation      ███████████████████░░   95%
+```
 
-## 🎯 Expertise
+<!-- Interactive Project Section -->
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
+    <td width="50%">
+      <h3 align="center">Deep Space Navigator 🛸</h3>
+      <div align="center">
+        <a href="https://github.com/username/project" target="_blank">
+          <img src="https://raw.githubusercontent.com/gist/TheCodePassion/34fff3cf76077ca380c9b296d2ee5954/raw/67e613882ac562743e3da6d67d232fe3c0d4f7a4/space_nav.gif" width="100%" alt="Project"/>
+        </a>
+        <p><strong>AI-Powered Space Navigation System</strong></p>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
+    <td width="50%">
+      <h3 align="center">Neural Explorer 🧠</h3>
+      <div align="center">
+        <a href="https://github.com/username/project" target="_blank">
+          <img src="https://raw.githubusercontent.com/gist/TheCodePassion/34fff3cf76077ca380c9b296d2ee5954/raw/67e613882ac562743e3da6d67d232fe3c0d4f7a4/neural.gif" width="100%" alt="Project"/>
+        </a>
+        <p><strong>Advanced Neural Network Visualization</strong></p>
+      </div>
     </td>
   </tr>
 </table>
 
-## 🚀 Tech Universe
+<!-- Tech Stack Visualizer -->
+## 🛠️ Tech Multiverse
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/TheCodePassion/34fff3cf76077ca380c9b296d2ee5954/raw/67e613882ac562743e3da6d67d232fe3c0d4f7a4/tech_universe.gif" width="100%" />
+</div>
+
+<!-- Animated Stats Section -->
+## 📊 GitHub Chronicles
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical&bg_color=0D1117&hide_border=true" />
+</div>
+
+<!-- Interactive Learning Journey -->
+## 🎓 Learning Journey
+```mermaid
+journey
+    title My Tech Learning Path
+    section 2023
+      Learned Deep Learning: 5: Me
+      Mastered PyTorch: 4: Me
+      Space Tech Innovation: 5: Me
+    section 2024
+      THREE.js Mastery: 3: Me
+      Unity Development: 4: Me
+      Quantum Computing: 2: Me
+```
+
+<!-- Fun Interaction Section -->
+## 🎮 Let's Have Some Fun!
 
 <details>
-<summary>🧠 AI & Machine Learning</summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
+<summary>🎲 Roll a Dice</summary>
+<img src="https://raw.githubusercontent.com/gist/TheCodePassion/34fff3cf76077ca380c9b296d2ee5954/raw/67e613882ac562743e3da6d67d232fe3c0d4f7a4/dice_roll.gif" width="150px"/>
 </details>
 
 <details>
-<summary>🎨 Frontend Development</summary>
+<summary>🎯 Daily Coding Quote</summary>
 <br>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
+<i>"The best error message is the one that never shows up."</i> - Thomas Fuchs
 </details>
 
 <details>
-<summary>⚙️ Backend & DevOps</summary>
+<summary>🌌 Space Fact of the Day</summary>
 <br>
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+<i>One day on Venus is longer than one year on Venus! Venus takes 243 Earth days to rotate on its axis but only 225 Earth days to orbit the Sun.</i>
 </details>
 
-## 📊 GitHub Analytics
+<!-- Music & Vibes Section -->
+## 🎵 Current Vibes
+<div align="center">
+  
+  [![Spotify](https://novatorem-khamessitaha.vercel.app/api/spotify)](https://open.spotify.com/user/31nqkd4reaju3zrfpwqbvnnloupi)
+  
+  <!-- Custom Music Waves -->
+  ![Music](https://raw.githubusercontent.com/gist/TheCodePassion/34fff3cf76077ca380c9b296d2ee5954/raw/67e613882ac562743e3da6d67d232fe3c0d4f7a4/music_waves.gif)
+</div>
 
-<!-- Fancy Stats Cards -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Activity Graph -->
-[![Taha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khamessitaha&theme=react-dark&hide_border=true&area=true)](https://github.com/khamessitaha)
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
+<!-- Interactive Connect Section -->
+## 🤝 Let's Connect & Create!
+<div align="center">
   <a href="https://linkedin.com/in/taha-khamessi-396aba1a3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=blue" />
   </a>
   <a href="https://kaggle.com/tahakhammassi">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/taha-khamessi">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <a href="mailto:taha.khamessi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.gg/YjfDPKrs">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
+</div>
 
-## 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31nqkd4reaju3zrfpwqbvnnloupi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+<!-- Dynamic Activity Snake -->
+## 🐍 Contribution Constellation
+<div align="center">
+  <img src="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-## 🐍 Contribution Graph
-![Snake animation](https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Interactive Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontAlign=38&animation=twinkling&fontAlignY=70&text=Let's%20Make%20Magic%20Happen!&desc=⭐%20Star%20this%20repo%20for%20good%20luck%20in%20your%20next%20code%20review!%20⭐&descSize=14&descAlignY=45" width="100%" />
+</div>
 
-<!-- Custom Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontAlign=38&animation=twinkling&fontAlignY=70&text=Let's%20Build%20Something%20Amazing!&desc=⭐%20Don't%20forget%20to%20star%20this%20repo%20if%20you%20like%20it!&descSize=14&descAlignY=45" width="100%" />
+<!-- Secret Easter Egg -->
+<details>
+<summary>🎁 You've Found a Secret!</summary>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/TheCodePassion/34fff3cf76077ca380c9b296d2ee5954/raw/67e613882ac562743e3da6d67d232fe3c0d4f7a4/secret.gif" width="300px"/>
+  <p>Congratulations! You're officially awesome! 🎉</p>
+</div>
+</details>
