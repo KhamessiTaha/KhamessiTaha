@@ -54,7 +54,7 @@ pie showData
 
 </div>
 
-### ⚡ Recent Space Missions
+### ⚡ Recent Space Missions (Projects)
 
 <div align="center">
 <table>
@@ -98,15 +98,6 @@ pie showData
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=khamessitaha&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&hide_border=true" width="95%" />
 </div>
 
-<div align="center">
-
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-nu-nine.vercel.app/api/spotify)](https://open.spotify.com/user/USER_ID)
-
-### 🌍 Visitor Count
-![](https://profile-counter.glitch.me/khamessitaha/count.svg)
-
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
