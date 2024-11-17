@@ -26,39 +26,77 @@
 
 ## 🧑‍🚀 Mission Commander Log
 
-```typescript
-interface SpaceExplorer {
-  name: string;
-  role: string;
-  location: string;
-  missions: string[];
-  skills: string[];
-  favoriteQuote: string;
+```javascript
+// Space Explorer Configuration
+const SPACE_SECTORS = ['Full Stack', 'AI', '3D Graphics', 'Space Tech'];
+const MISSION_STATUS = '🟢 Active';
+
+// Space Explorer Class
+class SpaceExplorer {
+    constructor() {
+        this.name = 'Taha Khamessi';
+        this.rank = 'Full Stack Space Pioneer';
+        this.baseLocation = 'Tunisia 🌍';
+        this.status = MISSION_STATUS;
+        
+        // Current Active Missions
+        this.activeMissions = [
+            {
+                name: 'NASA Space Apps Challenge 2024',
+                priority: 'High',
+                status: '🚀 In Progress'
+            },
+            {
+                name: 'AI-Powered Space Analytics',
+                priority: 'High',
+                status: '🛸 Ongoing'
+            },
+            {
+                name: '3D Universe Simulation',
+                priority: 'Medium',
+                status: '🌌 Expanding'
+            },
+            {
+                name: 'Real-time Space Data Processing',
+                priority: 'Medium',
+                status: '📡 Transmitting'
+            }
+        ];
+
+        // Space Explorer's Arsenal
+        this.skills = {
+            engineering: ['Full Stack Development', 'Space Technology'],
+            science: ['Machine Learning', 'Data Analytics'],
+            exploration: ['3D Graphics', 'Real-time Systems'],
+            powerLevel: 'Over 9000! 💫'
+        };
+    }
+
+    // Space Explorer's Mantra
+    get favoriteQuote() {
+        return `
+            "The universe is not outside of you. 
+             Look inside yourself; 
+             everything that you want, 
+             you already are." 
+             - Rumi
+        `;
+    }
+
+    // Mission Status Report
+    getMissionStatus() {
+        return {
+            explorer: this.name,
+            currentSector: SPACE_SECTORS[0],
+            missionCount: this.activeMissions.length,
+            status: this.status
+        };
+    }
 }
 
-const taha: SpaceExplorer = {
-  name: "Taha Khamessi",
-  role: "Full Stack Space Pioneer",
-  location: "Tunisia 🌍",
-  missions: [
-    "NASA Space Apps Challenge 2024",
-    "AI-Powered Space Analytics",
-    "3D Universe Simulation",
-    "Real-time Space Data Processing"
-  ],
-  skills: [
-    "Full Stack Development",
-    "Machine Learning",
-    "3D Graphics",
-    "Space Technology",
-    "Real-time Systems"
-  ],
-  favoriteQuote: `"The universe is not outside of you. 
-    Look inside yourself; 
-    everything that you want, 
-    you already are." 
-    - Rumi`
-};
+// Initialize Space Explorer
+const taha = new SpaceExplorer();
+console.log('Mission Status:', taha.getMissionStatus());
 ```
 
 </td>
