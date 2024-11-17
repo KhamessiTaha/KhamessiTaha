@@ -1,123 +1,97 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Taha%20Khamessi&fontSize=50&fontColor=fff&animation=fadeIn" />
-</div>
+[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://tahakhamessi.my.canva.site/)
 
-<h3 align="center">Space Technology Enthusiast | Full Stack Developer | ML Engineer | 3D Graphics Developer</h3>
+<div align="center">
+  <h1>Hi there! I'm Taha Khamessi 👋</h1>
+  <h3>Software Developer & Deep Learning Enthusiast from Tunisia 🌟</h3>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/khamessitaha)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://khamessitaha.github.io/)
+  [![Resume](https://img.shields.io/badge/Resume-View%20CV-green)](https://beige-josephine-8.tiiny.site)
+</div>
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://khamessitaha.github.io/)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://beige-josephine-8.tiiny.site)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.khamessi@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical&row=1)](https://github.com/khamessitaha)
   
-  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 ### 🚀 About Me
 
-```javascript
-const taha = {
-    role: "Full Stack Developer & ML Engineer",
-    location: "Tunisia 🌍",
-    currentProject: "NASA Space Apps Challenge",
-    expertise: ["Web Development", "Machine Learning", "3D Graphics", "Space Tech"],
-    technologies: {
-        frontend: ["React", "Angular", "Flutter", "Three.js"],
-        backend: ["Node.js", "Spring", "Express"],
-        ml: ["TensorFlow", "PyTorch", "scikit-learn"],
-        graphics: ["Unity", "Three.js", "WebGL"],
-        database: ["MongoDB", "MySQL", "Firebase"],
-        devOps: ["Docker", "Git", "GitHub Actions"]
-    },
-    currentFocus: "Building innovative solutions at the intersection of Space Tech and AI",
-    lifePhilosophy: "I don't hold the planets and stars responsible for my choices."
-};
-```
+- 🔭 Currently working on: **2024 NASA International Space Apps Challenge**
+- 🌱 Learning: **THREE.js** and **Unity** for immersive experiences
+- 💡 Expertise: **Deep Learning**, **Space Technology**, and **Software Development**
+- 📫 Reach me at: **taha.khamessi@gmail.com**
+- ⚡ Fun fact: **I don't hold the planets and stars responsible for my choices** 🌌
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="320" align="right" alt="Space Developer Animation">
-</div>
-
-### 🎯 Current Focus
-
-- 🌌 Leading NASA Space Apps Challenge projects
-- 🎮 Developing immersive 3D web experiences
-- 🤖 Building advanced ML/AI solutions
-- 🚀 Exploring cutting-edge space technologies
-
-### 💻 Technical Proficiency
+### 🛠️ Tech Stack
 
 <details>
-<summary>🎨 Frontend & 3D Development</summary>
-<br>
-<div align="center">
-  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  
-</div>
+<summary>Programming Languages</summary>
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 </details>
 
 <details>
-<summary>🧠 AI & Machine Learning</summary>
-<br>
-<div align="center">
-  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-  
-</div>
+<summary>Frameworks & Libraries</summary>
+
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 </details>
 
 <details>
-<summary>⚡ Backend & Infrastructure</summary>
-<br>
-<div align="center">
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  
-</div>
+<summary>DevOps & Tools</summary>
+
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 </details>
 
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khamessitaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=tokyonight&hide_border=true" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Taha's Trophies"/>
-</div>
-
-### 🤝 Let's Connect
-
-<div align="center">
   
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tahakhammassi)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/taha-khamessi)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/quantumquasar24)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjfDPKrs)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamessitaha&theme=ambient_gradient&show_icons=true&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=ambient_gradient&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=ambient_gradient&hide_border=true)
   
 </div>
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/taha-khamessi-396aba1a3" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/tahakhammassi" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://stackoverflow.com/users/taha-khamessi" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://discord.gg/YjfDPKrs" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ### 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg)
 
+<div align="center">
+  <i>⭐️ Star this repository if you find it interesting!</i>
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" />
 </div>
