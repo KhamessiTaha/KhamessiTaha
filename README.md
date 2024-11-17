@@ -1,97 +1,147 @@
-[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://tahakhamessi.my.canva.site/)
-
-<div align="center">
-  <h1>Hi there! I'm Taha Khamessi 👋</h1>
-  <h3>Software Developer & Deep Learning Enthusiast from Tunisia 🌟</h3>
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/khamessitaha)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://khamessitaha.github.io/)
-  [![Resume](https://img.shields.io/badge/Resume-View%20CV-green)](https://beige-josephine-8.tiiny.site)
-</div>
-
 <div align="center">
   
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical&row=1)](https://github.com/khamessitaha)
-  
+  <!-- Custom Banner Animation -->
+  [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Taha%20Khamessi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Deep%20Learning%20Enthusiast%20|%20Space%20Tech&descAlignY=51&descAlign=62)](https://tahakhamessi.my.canva.site/)
+
 </div>
 
+<!-- Introduction with Typing Animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Space+Technology+Explorer+%F0%9F%9A%80;Software+Architect+%F0%9F%8F%97%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+</h1>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://khamessitaha.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+  <a href="https://beige-josephine-8.tiiny.site"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
+  <img src="https://img.shields.io/github/followers/khamessitaha?logo=github&style=for-the-badge" alt="followers" />
+</p>
+
+<!-- Animated Code GIF -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-### 🚀 About Me
+## 🧬 About Me
 
-- 🔭 Currently working on: **2024 NASA International Space Apps Challenge**
-- 🌱 Learning: **THREE.js** and **Unity** for immersive experiences
-- 💡 Expertise: **Deep Learning**, **Space Technology**, and **Software Development**
-- 📫 Reach me at: **taha.khamessi@gmail.com**
-- ⚡ Fun fact: **I don't hold the planets and stars responsible for my choices** 🌌
+```javascript
+const taha = {
+    pronouns: "He" | "Him",
+    location: "Tunisia 🌍",
+    current_focus: "2024 NASA International Space Apps Challenge 🛸",
+    learning: ["THREE.js", "Unity", "Advanced ML Architectures"],
+    interests: ["Deep Learning", "Space Tech", "Innovation"],
+    favorite_quote: "I don't hold the planets and stars responsible for my choices 🌌",
+    contact: "taha.khamessi@gmail.com",
+    fun_fact: "I can explain quantum computing while cooking pasta! 🍝"
+};
+```
 
-### 🛠️ Tech Stack
-
-<details>
-<summary>Programming Languages</summary>
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-</details>
-
-<details>
-<summary>Frameworks & Libraries</summary>
-
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-</details>
-
-<details>
-<summary>DevOps & Tools</summary>
-
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-</details>
-
-### 📊 GitHub Statistics
-
+<!-- GitHub Trophy -->
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamessitaha&theme=ambient_gradient&show_icons=true&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=ambient_gradient&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=ambient_gradient&hide_border=true)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
 </div>
 
-### 🤝 Connect with Me
+## 🎯 Expertise
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+  </tr>
+</table>
+
+## 🚀 Tech Universe
+
+<details>
+<summary>🧠 AI & Machine Learning</summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+</details>
+
+<details>
+<summary>🎨 Frontend Development</summary>
+<br>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+</details>
+
+<details>
+<summary>⚙️ Backend & DevOps</summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</details>
+
+## 📊 GitHub Analytics
+
+<!-- Fancy Stats Cards -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Activity Graph -->
+[![Taha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khamessitaha&theme=react-dark&hide_border=true&area=true)](https://github.com/khamessitaha)
+
+## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/taha-khamessi-396aba1a3" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/taha-khamessi-396aba1a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/tahakhammassi" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <a href="https://kaggle.com/tahakhammassi">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/taha-khamessi" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  <a href="https://stackoverflow.com/users/taha-khamessi">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://discord.gg/YjfDPKrs" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.gg/YjfDPKrs">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-### 🐍 Contribution Graph
+## 🎵 Currently Vibing To
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31nqkd4reaju3zrfpwqbvnnloupi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
+## 🐍 Contribution Graph
 ![Snake animation](https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-  <i>⭐️ Star this repository if you find it interesting!</i>
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" />
-</div>
+<!-- Custom Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontAlign=38&animation=twinkling&fontAlignY=70&text=Let's%20Build%20Something%20Amazing!&desc=⭐%20Don't%20forget%20to%20star%20this%20repo%20if%20you%20like%20it!&descSize=14&descAlignY=45" width="100%" />
