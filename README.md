@@ -1,105 +1,117 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&text=Taha%20Khamessi&fontSize=70&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%203D%20Graphics%20Pioneer&animation=fadeIn&fontColor=fff&descAlignY=65" /> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Hey,%20I'm%20Taha%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Space+Tech+Engineer+🚀;NASA+Space+Apps+Global+Nominee+2024+🌎;Full+Stack+Developer+%26+AI+Enthusiast+🤖;3D+Graphics+Pioneer+🎮)](https://git.io/typing-svg)
+
+</div>
+
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJtb3dodWc4NHd0MzNlN3ZrcDY3Ym95bWdzd3RyYnJ3ZXVtbmszbiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
+### 🚀 Quick Launch
+
+```javascript
+const taha = {
+    passion: "Space Technology & AI",
+    code: ["Python", "JavaScript", "TypeScript"],
+    askMeAbout: ["space tech", "web dev", "AI/ML", "3D graphics"],
+    current: "NASA Space Apps Challenge 2024",
+    funFact: "I don't trust people who don't use dark mode 🌙"
+};
+```
+
+<div align="center">
+  <a href="https://khamessitaha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:taha.khamessi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/taha-khamessi-396aba1a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+### 🌟 Cosmic Powers (Skills)
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,tensorflow,threejs,docker,mongodb&theme=dark" />
 
-</div> <table> <tr> <td width="50%">
-🧑‍🚀 Commander's Logbook
-javascript
-Copy code
-const spaceExplorer = {
-  name: "Taha Khamessi",
-  profession: "Full Stack Developer | AI Enthusiast",
-  location: "Ben Arous, Tunisia 🌍",
-  notableAchievements: [
-    "NASA Space Apps Challenge 2024 Global Nominee",
-    "Deployed collaborative code editor app",
-    "Creator of 'CosmicVue' solar system simulation"
-  ],
-  coreSkills: {
-    development: ["React", "Three.js", "Firebase"],
-    machineLearning: ["TensorFlow", "Keras", "Python"],
-    spaceTech: ["Remote Sensing", "Space Data Visualization"]
-  },
-  contact: {
-    email: "taha.khamessi@gmail.com",
-    availability: "Open for collaboration and projects"
-  }
-};
-</td> <td width="50%">
-🌌 Achievements Dashboard
-<img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&icon_color=00C9FF&title_color=00C9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" width="100%" />
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '20px'}}}%%
+pie showData
+    title My Universe
+    "Space Tech" : 35
+    "AI & ML" : 30
+    "3D Graphics" : 20
+    "Web Dev" : 15
+```
 
+</div>
 
-</td> </tr> </table>
-🛸 Technology Command Center
-<details> <summary><b>🎨 Creative & Frontend Suite</b></summary> <br>
-mermaid
-Copy code
-mindmap
-  root((Creative Tech))
-    3D & Graphics
-      Three.js
-      WebGL
-      Blender
-    Frontend
-      React
-      Next.js
-      Tailwind CSS
-    Animation
-      Framer Motion
-      GSAP
-</details> <details> <summary><b>🤖 AI & Space Engineering</b></summary> <br>
-mermaid
-Copy code
-mindmap
-  root((AI & Space))
-    Machine Learning
-      TensorFlow
-      PyTorch
-      Keras
-    Space Tech
-      Satellite Data
-      Space Apps
-      Remote Sensing
-</details> <details> <summary><b>⚙️ Backend & Infrastructure</b></summary> <br>
-mermaid
-Copy code
-mindmap
-  root((Backend & DevOps))
-    Backend
-      Node.js
-      Spring Boot
-    Cloud & DevOps
-      Docker
-      Firebase
-    Databases
-      MongoDB
-      PostgreSQL
-      Firebase
-</details>
-🚀 Featured Projects
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🌌 CosmicVue Project</h3> <img src="/api/placeholder/600/300" width="100%" alt="CosmicVue Project"/>
+### ⚡ Recent Space Missions
 
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🛸 Space Project One</h3>
+<img src="/api/placeholder/400/200" width="100%" alt="Project"/>
+<p align="center">
+  <a href="https://github.com/username/repo1" target="_blank">
+    <img src="https://img.shields.io/badge/Code-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-92FE9D?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🌌 Space Project Two</h3>
+<img src="/api/placeholder/400/200" width="100%" alt="Project"/>
+<p align="center">
+  <a href="https://github.com/username/repo2" target="_blank">
+    <img src="https://img.shields.io/badge/Code-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-92FE9D?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+</td>
+</tr>
+</table>
+</div>
 
-Tech Stack: React, Three.js, Firebase
+### 📊 Mission Statistics
 
-🌍 Real-time planetary simulation
-🚀 Educational & interactive user experience
-</td> <td width="50%"> <h3 align="center">🛠️ Collaborative Code Editor</h3> <img src="/api/placeholder/600/300" width="100%" alt="Collaborative Code Editor"/>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=khamessitaha&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=00C9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C9FF&dates=777777" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=khamessitaha&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&hide_border=true" width="95%" />
+</div>
 
-Tech Stack: React, Firebase, Node.js
+<div align="center">
 
-🛡️ Secure user authentication with Firebase
-📝 Real-time collaborative coding and chat features
-</td> </tr> </table> </div>
-📈 Contribution Constellation
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph/?username=khamessitaha&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/> </div> <div align="center">
-🌐 Connect with Me
+### 🎵 Currently Vibing To
+[![Spotify](https://novatorem-nu-nine.vercel.app/api/spotify)](https://open.spotify.com/user/USER_ID)
 
+### 🌍 Visitor Count
+![](https://profile-counter.glitch.me/khamessitaha/count.svg)
 
-🌟 Visitor Counter
+</div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-</div> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" /> </picture> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" /> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+</div>
