@@ -110,7 +110,7 @@ mindmap
 
 ```mermaid
 mindmap
-  root((AI & ML))
+  root((AI and ML))
     Deep Learning
       TensorFlow/Lite
       PyTorch
