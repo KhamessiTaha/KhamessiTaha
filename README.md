@@ -1,303 +1,224 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Taha%20Khamessi&fontSize=70&desc=Space%20Explorer%20|%20Full%20Stack%20Innovator%20|%20AI%20Pioneer&animation=fadeIn&fontColor=fff&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&text=Taha%20Khamessi&fontSize=70&desc=Space%20Tech%20Engineer%20|%20AI%20Developer%20|%203D%20Graphics%20Pioneer&animation=fadeIn&fontColor=fff&descAlignY=65" />
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=NASA+Space+Apps+Challenge+Global+Nominee+2024+🌎;Crafting+the+Future+of+Space+Technology+🚀;Pioneering+AI+%26+ML+Solutions+🤖;Building+Immersive+3D+Experiences+🎮;Let's+connect+and+create+something+amazing!+✨)](https://git.io/typing-svg)
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Pioneering+Space+Technology+🚀;NASA+Space+Apps+Global+Nominee+2024+🌎;Building+AI-Powered+Solutions+🤖;Creating+Immersive+3D+Worlds+🎮;One+Commit+Away+From+The+Stars+✨)](https://git.io/typing-svg)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://khamessitaha.github.io/)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://beige-josephine-8.tiiny.site)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.khamessi@gmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=khamessitaha&style=for-the-badge&color=00C9FF)
   
-  <a href="https://khamessitaha.github.io/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-black.svg?style=for-the-badge&logo=browser&logoColor=white"/>
-  </a>
-  <a href="https://beige-josephine-8.tiiny.site">
-    <img src="https://custom-icon-badges.demolab.com/badge/Resume-blue.svg?style=for-the-badge&logo=file-pdf&logoColor=white"/>
-  </a>
-  <a href="mailto:taha.khamessi@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Contact-red.svg?style=for-the-badge&logo=mail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=khamessitaha&style=for-the-badge&color=00C9FF&label=Space+Visitors" alt="Profile Views" />
 </div>
 
-<br>
-
-<table align="center">
+<table>
 <tr>
-<td width="58%">
+<td width="50%">
 
-## 🧑‍🚀 Mission Commander Log
+### 🧑‍🚀 Mission Commander's Log
 
 ```javascript
-// Space Explorer Configuration
-const SPACE_SECTORS = ['Full Stack', 'AI', '3D Graphics', 'Space Tech'];
-const MISSION_STATUS = '🟢 Active';
-
-// Space Explorer Class
-class SpaceExplorer {
-    constructor() {
-        this.name = 'Taha Khamessi';
-        this.rank = 'Full Stack Space Pioneer';
-        this.baseLocation = 'Tunisia 🌍';
-        this.status = MISSION_STATUS;
-        
-        // Current Active Missions
-        this.activeMissions = [
-            {
-                name: 'NASA Space Apps Challenge 2024',
-                priority: 'High',
-                status: '🚀 In Progress'
-            },
-            {
-                name: 'AI-Powered Space Analytics',
-                priority: 'High',
-                status: '🛸 Ongoing'
-            },
-            {
-                name: '3D Universe Simulation',
-                priority: 'Medium',
-                status: '🌌 Expanding'
-            },
-            {
-                name: 'Real-time Space Data Processing',
-                priority: 'Medium',
-                status: '📡 Transmitting'
-            }
-        ];
-
-        // Space Explorer's Arsenal
-        this.skills = {
-            engineering: ['Full Stack Development', 'Space Technology'],
-            science: ['Machine Learning', 'Data Analytics'],
-            exploration: ['3D Graphics', 'Real-time Systems'],
-            powerLevel: 'Over 9000! 💫'
-        };
-    }
-
-    // Space Explorer's Mantra
-    get favoriteQuote() {
-        return `
-            "The universe is not outside of you. 
-             Look inside yourself; 
-             everything that you want, 
-             you already are." 
-             - Rumi
-        `;
-    }
-
-    // Mission Status Report
-    getMissionStatus() {
-        return {
-            explorer: this.name,
-            currentSector: SPACE_SECTORS[0],
-            missionCount: this.activeMissions.length,
-            status: this.status
-        };
-    }
-}
-
-// Initialize Space Explorer
-const taha = new SpaceExplorer();
-console.log('Mission Status:', taha.getMissionStatus());
+const spaceExplorer = {
+  name: "Taha Khamessi",
+  role: "Space Technology Engineer",
+  location: "Tunisia 🌍",
+  mission: {
+    current: "NASA Space Apps Challenge 2024",
+    status: "In Progress 🟢",
+    objective: "Advancing space technology through code"
+  },
+  skills: {
+    spacetech: ["Satellite Data", "Space Apps", "Remote Sensing"],
+    development: ["Full Stack", "ML/AI", "3D Graphics"],
+    tools: ["TensorFlow", "Three.js", "React", "Python"]
+  },
+  contact: {
+    email: "taha.khamessi@gmail.com",
+    availability: "Open to collaboration"
+  }
+};
 ```
 
 </td>
-<td width="42%">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" alt="Space Developer Animation"/>
-  
-  <div align="center">
-    <h3>🌌 Current Space-Time Coordinates</h3>
-    <a href="https://linkedin.com/in/taha-khamessi-396aba1a3">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://kaggle.com/tahakhammassi">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-    </a>
-    <a href="https://discord.gg/YjfDPKrs">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-  </div>
+<td width="50%">
+
+### 🌌 Cosmic Achievement Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&icon_color=00C9FF&title_color=00C9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" width="100%" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khamessitaha&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF)](https://git.io/streak-stats)
+
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <h2>🛸 Technology Arsenal & Space Equipment</h2>
-</div>
+## 🛸 Technology Command Center
 
-<table align="center">
-<tr>
-<td width="50%">
-
-<h3 align="center">Frontend Constellation 🎨</h3>
+<details>
+<summary><b>🎨 Creative Engineering Suite</b></summary>
+<br>
 
 ```mermaid
 mindmap
-  root((Frontend))
-    Frameworks
-      React/Next.js
-      Angular
-      Vue.js
-    3D Universe
+  root((Creative Tech))
+    3D & Graphics
       Three.js
-      Unity
       WebGL
-      Babylon.js
+      Unity
+      Blender
+    Frontend
+      React
+      Next.js
+      Angular
+      Flutter
     UI Systems
       Tailwind
-      Material UI
       Framer Motion
+      GSAP
+      Material UI
 ```
 
-</td>
-<td width="50%">
+</details>
 
-<h3 align="center">Backend Nebula ⚡</h3>
+<details>
+<summary><b>🤖 AI & Space Technology Lab</b></summary>
+<br>
 
 ```mermaid
 mindmap
-  root((Backend))
-    Core
+  root((AI & Space))
+    Machine Learning
+      TensorFlow
+      PyTorch
+      Keras
+      JAX
+    Space Tech
+      Satellite Data
+      Remote Sensing
+      GIS
+      Space Apps
+    Computer Vision
+      YOLO
+      MediaPipe
+      OpenCV
+```
+
+</details>
+
+<details>
+<summary><b>⚡ Infrastructure & Systems</b></summary>
+<br>
+
+```mermaid
+mindmap
+  root((Systems))
+    Backend
       Node.js
       Spring Boot
       FastAPI
-    Data Systems
+      GraphQL
+    Cloud & DevOps
+      Docker
+      Kubernetes
+      AWS
+      GCP
+    Databases
       MongoDB
       PostgreSQL
       Redis
-    Cloud
-      AWS
       Firebase
-      Docker
 ```
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+</details>
 
-<h3 align="center">AI & ML Laboratory 🧠</h3>
-
-```mermaid
-mindmap
-  root((AI & ML))
-    Deep Learning
-      TensorFlow
-      PyTorch
-      JAX
-    Computer Vision
-      OpenCV
-      MediaPipe
-      YOLO
-    Space Analytics
-      Pandas
-      NumPy
-      SciPy
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <h2>🌠 Mission Statistics</h2>
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&icon_color=00C9FF&title_color=00C9FF&text_color=FFFFFF&custom_title=Mission%20Statistics)
-
-</td>
-<td width="50%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khamessitaha&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&custom_title=Cosmic%20Streak)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=nord&no-frame=true&no-bg=true&column=7&title=Commits,PR,Repositories,Issues,Stars,Followers,MultiLanguage" alt="Achievement Trophies"/>
-</div>
-
-### 🎯 Skill Constellations
+## 📊 Mission Control Dashboard
 
 <div align="center">
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px'}}}%%
 pie showData
-    title "Technology Mastery Distribution"
-    "Frontend & 3D" : 35
-    "AI & Space Tech" : 30
-    "Backend & Cloud" : 25
-    "DevOps & Tools" : 10
+    title Technology Focus Distribution
+    "Space Technology" : 30
+    "AI & Machine Learning" : 25
+    "3D Graphics & Creative" : 25
+    "Systems Architecture" : 20
 ```
 
-| 💻 Core Systems | 🎨 Creative Tech | 🤖 AI & ML | ⚡ Infrastructure |
-|----------------|------------------|------------|------------------|
-| ![Python](https://custom-icon-badges.demolab.com/badge/Python-★★★★★-00C9FF?style=flat-square&logo=python) | ![React](https://custom-icon-badges.demolab.com/badge/React-★★★★★-00C9FF?style=flat-square&logo=react) | ![TensorFlow](https://custom-icon-badges.demolab.com/badge/TensorFlow-★★★★☆-92FE9D?style=flat-square&logo=tensorflow) | ![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-★★★★★-00C9FF?style=flat-square&logo=node.js) |
-| ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-★★★★★-00C9FF?style=flat-square&logo=javascript) | ![Three.js](https://custom-icon-badges.demolab.com/badge/Three.js-★★★★★-00C9FF?style=flat-square&logo=three.js) | ![PyTorch](https://custom-icon-badges.demolab.com/badge/PyTorch-★★★★☆-92FE9D?style=flat-square&logo=pytorch) | ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-★★★★☆-92FE9D?style=flat-square&logo=docker) |
+### 🎯 Skill Proficiency Matrix
+
+| Domain | Technologies | Proficiency |
+|--------|-------------|-------------|
+| **Space Tech** | ![Python](https://img.shields.io/badge/Python-★★★★★-00C9FF?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-92FE9D?style=flat-square&logo=tensorflow) | Advanced |
+| **3D & Graphics** | ![Three.js](https://img.shields.io/badge/Three.js-★★★★★-00C9FF?style=flat-square&logo=three.js) ![WebGL](https://img.shields.io/badge/WebGL-★★★★☆-92FE9D?style=flat-square&logo=webgl) | Expert |
+| **Full Stack** | ![React](https://img.shields.io/badge/React-★★★★★-00C9FF?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-★★★★★-00C9FF?style=flat-square&logo=node.js) | Expert |
 
 </div>
 
-### 📊 Cosmic Activity
-
-```typescript
-// Weekly Development Analysis
-const weeklyStats = {
-  JavaScript:   "█████████████           45.2%",
-  Python:       "████████░░░░░░░░░░░░░   25.8%",
-  TypeScript:   "██████░░░░░░░░░░░░░░░   15.3%",
-  "HTML/CSS":   "████░░░░░░░░░░░░░░░░░   10.2%",
-  Other:        "██░░░░░░░░░░░░░░░░░░░   3.5%"
-};
-```
-
-### 🚀 Featured Space Missions
+## 🚀 Featured Space Missions
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🌌 Project Nova</h3>
-<img src="https://dummyimage.com/600x300/000/fff&text=Space+Project" width="100%" alt="Project Nova"/>
-<div align="center">
 
-[![View Code](https://custom-icon-badges.demolab.com/badge/View%20Code-00C9FF?style=for-the-badge&logo=code&logoColor=white)](https://github.com/username/repo1)
-[![Live Demo](https://custom-icon-badges.demolab.com/badge/Live%20Demo-92FE9D?style=for-the-badge&logo=rocket&logoColor=black)](https://project1.demo)
+<h3 align="center">🛰️ NASA Space Apps Project</h3>
+<img src="/api/placeholder/600/300" width="100%" alt="NASA Space Apps Project"/>
 
-**Tech Stack:** React, Three.js, TensorFlow
-</div>
+[![View Project](https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/username/repo1)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-92FE9D?style=for-the-badge&logo=vercel&logoColor=black)](https://project1.demo)
+
+**Tech Stack:** TensorFlow, React, Three.js
+- 🏆 Global Nominee 2024
+- 🌍 Space Technology Innovation
+- 🤖 AI-Powered Space Solutions
+
 </td>
 <td width="50%">
-<h3 align="center">🛸 Project Quantum</h3>
-<img src="https://dummyimage.com/600x300/000/fff&text=AI+Project" width="100%" alt="Project Quantum"/>
-<div align="center">
 
-[![View Code](https://custom-icon-badges.demolab.com/badge/View%20Code-00C9FF?style=for-the-badge&logo=code&logoColor=white)](https://github.com/username/repo2)
-[![Live Demo](https://custom-icon-badges.demolab.com/badge/Live%20Demo-92FE9D?style=for-the-badge&logo=rocket&logoColor=black)](https://project2.demo)
+<h3 align="center">🎮 3D Space Visualization</h3>
+<img src="/api/placeholder/600/300" width="100%" alt="3D Space Visualization"/>
 
-**Tech Stack:** PyTorch, FastAPI, WebGL
-</div>
+[![View Project](https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/username/repo2)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-92FE9D?style=for-the-badge&logo=vercel&logoColor=black)](https://project2.demo)
+
+**Tech Stack:** Three.js, WebGL, React
+- 🚀 Real-time 3D Graphics
+- 🌌 Space Environment Simulation
+- 📊 Interactive Data Visualization
+
 </td>
 </tr>
 </table>
 </div>
 
-### 📈 Contribution Constellation
+## 📈 Contribution Constellation
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=khamessitaha&bg_color=transparent&color=00C9FF&line=92FE9D&point=00C9FF&hide_border=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=khamessitaha&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <h2>🌌 Quantum Entanglement Trail</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+## 🌐 Connect Across the Universe
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tahakhammassi)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/taha-khamessi)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjfDPKrs)
+
+### 🌟 Visitor Counter
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhamessitaha&count_bg=%2300C9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)
+
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
