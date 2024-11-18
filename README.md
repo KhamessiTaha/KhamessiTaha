@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Taha%20Khamessi&fontSize=70&desc=Space%20Technology%20|%20Full%20Stack%20|%20ML%20|%203D%20Graphics&animation=twinkling&fontColor=fff&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Taha%20Khamessi&fontSize=70&desc=Software%20Developer%20|%20Full%20Stack%20|%20ML%20|%203D%20Graphics&animation=twinkling&fontColor=fff&descAlignY=65" />
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Exploring+Space+Technology+%F0%9F%8C%8C;Creating+Immersive+3D+Experiences+%F0%9F%8E%AE;Developing+AI+Solutions+%F0%9F%A4%96;NASA+Space+Apps+Challenge+Leader+%F0%9F%8C%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Exploring+Space+Technology+%F0%9F%8C%8C;Creating+Immersive+3D+Experiences+%F0%9F%8E%AE;Developing+AI+Solutions+%F0%9F%A4%96;2024+NASA+Space+Apps+Challenge+Global+Nominee+%F0%9F%8C%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,18 +26,8 @@
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300" align="right" alt="Space Developer Animation" />
 </div>
 
-```typescript
-interface SpaceExplorer {
-  name: string;
-  title: string;
-  location: string;
-  available: boolean;
-  skills: string[];
-  currentProject: string;
-  contact: string;
-}
-
-const taha: SpaceExplorer = {
+```javascript
+const taha = {
   name: "Taha Khamessi",
   title: "Full Stack Developer & ML Enthusiast",
   location: "Tunisia 🌍",
@@ -54,16 +44,16 @@ const taha: SpaceExplorer = {
 };
 
 class Philosophy {
-  static readonly quote: string = 
-    "I don't hold the planets and stars " +
-    "responsible for my choices.";
+  static get quote() {
+    return "I don't hold the planets and stars " +
+           "responsible for my choices.";
+  }
 }
 ```
 
 <div align="center">
   <h2>🎯 Mission Objectives</h2>
 </div>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -83,7 +73,6 @@ class Philosophy {
 <summary>🎨 Frontend & Creative Development</summary>
 <br>
 <div align="center">
-
 ```mermaid
 mindmap
   root((Frontend))
@@ -99,7 +88,6 @@ mindmap
       Tailwind
       Material UI
 ```
-
 </div>
 </details>
 
@@ -107,7 +95,6 @@ mindmap
 <summary>🧠 AI & Machine Learning Laboratory</summary>
 <br>
 <div align="center">
-
 ```mermaid
 mindmap
   root((AI and ML))
@@ -125,7 +112,6 @@ mindmap
       Scikit-learn
       
 ```
-
 </div>
 </details>
 
@@ -133,7 +119,6 @@ mindmap
 <summary>⚡ Backend & Infrastructure Command Center</summary>
 <br>
 <div align="center">
-
 ```mermaid
 mindmap
   root((Backend))
@@ -154,7 +139,6 @@ mindmap
       Vercel
       Firebase Hosting
 ```
-
 </div>
 </details>
 
@@ -162,7 +146,6 @@ mindmap
   <h2>📊 Mission Statistics</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=nord&no-frame=true&no-bg=true&column=7&title=Commits,PR,Repositories,Issues,Stars,Followers,MultiLanguage" alt="GitHub Trophies"/>
 </div>
-
 <div align="center">
   <h2>🌐 Quantum Entanglements (Social Links)</h2>
   
@@ -171,11 +154,9 @@ mindmap
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/taha-khamessi)
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjfDPKrs)
 </div>
-
 ### 🎯 Skills & Expertise
 
 <div align="center">
-
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px'}}}%%
 pie showData
@@ -185,28 +166,23 @@ pie showData
     "Backend & DevOps" : 25
     "Space Technology" : 20
 ```
-
 | 💻 Programming  | 🎨 Frontend & 3D | 🤖 AI & ML | ⚙️ Backend & DevOps |
 |----------------|-----------------|------------|-------------------|
 | ![Python](https://img.shields.io/badge/Python-★★★★★-00C9FF?style=flat-square&logo=python) | ![React](https://img.shields.io/badge/React-★★★★★-00C9FF?style=flat-square&logo=react) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-92FE9D?style=flat-square&logo=tensorflow) | ![Node.js](https://img.shields.io/badge/Node.js-★★★★★-00C9FF?style=flat-square&logo=node.js) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-00C9FF?style=flat-square&logo=javascript) | ![Three.js](https://img.shields.io/badge/Three.js-★★★★★-00C9FF?style=flat-square&logo=three.js) | ![PyTorch](https://img.shields.io/badge/PyTorch-★★★★☆-92FE9D?style=flat-square&logo=pytorch) | ![Docker](https://img.shields.io/badge/Docker-★★★★☆-92FE9D?style=flat-square&logo=docker) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-92FE9D?style=flat-square&logo=typescript) | ![Angular](https://img.shields.io/badge/Angular-★★★★☆-92FE9D?style=flat-square&logo=angular) | ![scikit--learn](https://img.shields.io/badge/scikit--learn-★★★★☆-92FE9D?style=flat-square&logo=scikit-learn) | ![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-92FE9D?style=flat-square&logo=mongodb) |
 | ![Java](https://img.shields.io/badge/Java-★★★★☆-92FE9D?style=flat-square&logo=java) | ![Unity](https://img.shields.io/badge/Unity-★★★★☆-92FE9D?style=flat-square&logo=unity) | ![OpenCV](https://img.shields.io/badge/OpenCV-★★★★☆-92FE9D?style=flat-square&logo=opencv) | ![Spring](https://img.shields.io/badge/Spring-★★★★☆-92FE9D?style=flat-square&logo=spring) |
-
 </div>
 
 ### 📊 Weekly Development Breakdown
-
 ```text
-JavaScript   █████████████░░░░░░░░   45.2%
+JavaScript   █████████████           45.2%
 Python       ████████░░░░░░░░░░░░░   25.8%
 TypeScript   ██████░░░░░░░░░░░░░░░   15.3%
 HTML/CSS     ████░░░░░░░░░░░░░░░░░   10.2%
 Other        ██░░░░░░░░░░░░░░░░░░░   3.5%
 ```
-
 ### 🌌 Recent Space Missions (Projects)
-
 <div align="center">
 <table>
   <tr>
@@ -245,19 +221,17 @@ Other        ██░░░░░░░░░░░░░░░░░░░   3
 </div>
 
 ### 📈 Contribution Constellation
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=khamessitaha&bg_color=transparent&color=00C9FF&line=92FE9D&point=00C9FF&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ### 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
+
