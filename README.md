@@ -1,55 +1,263 @@
-[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://tahakhamessi.my.canva.site/) 
-<h1 align="center">Hi 👋, I'm Taha Khamessi.</h1>
-<h3 align="center">A passionate Software Developer and a Deep Learning Enthusiast from Tunisia</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=0e75b6&style=flat" alt="khamessitaha" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Taha%20Khamessi&fontSize=70&desc=Space%20Technology%20|%20Full%20Stack%20|%20ML%20|%203D%20Graphics&animation=twinkling&fontColor=fff&descAlignY=65" />
+</div>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical" alt="khamessitaha" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-
-- 🔭 I’m currently working on **2024 NASA International Space Apps Challenge**
-
-- 🌱 I’m currently learning **THREE.js and Unity**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://khamessitaha.github.io/)
-
-- 💬 Ask me about **Deep Learning and Space**
-
-- 📫 How to reach me **taha.khamessi@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://beige-josephine-8.tiiny.site)
-
-- ⚡ Fun fact **I don't hold the planets and stars responsible for my choices.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/taha-khamessi-396aba1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-khamessi-396aba1a3" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/taha-khamessi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="taha-khamessi" height="30" width="40" /></a>
-<a href="https://kaggle.com/tahakhammassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tahakhammassi" height="30" width="40" /></a>
-<a href="https://fb.com/taha.acoustica666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taha.acoustica666" height="30" width="40" /></a>
-<a href="https://instagram.com/quantumquasar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quantumquasar24" height="30" width="40" /></a>
-<a href="https://discord.gg/YjfDPKrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YjfDPKrs" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Exploring+Space+Technology+%F0%9F%8C%8C;Creating+Immersive+3D+Experiences+%F0%9F%8E%AE;Developing+AI+Solutions+%F0%9F%A4%96;NASA+Space+Apps+Challenge+Leader+%F0%9F%8C%8F" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://khamessitaha.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+  <a href="https://beige-josephine-8.tiiny.site">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:taha.khamessi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=khamessitaha&style=for-the-badge&color=00C9FF" alt="Profile Views" />
+</div>
 
+<div align="center">
+  <h2>🌌 About The Explorer 🚀</h2>
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300" align="right" alt="Space Developer Animation" />
+</div>
 
+```typescript
+interface SpaceExplorer {
+  name: string;
+  title: string;
+  location: string;
+  available: boolean;
+  skills: string[];
+  currentProject: string;
+  contact: string;
+}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khamessitaha&theme=ambient_gradient&show_icons=true&locale=en" alt="khamessitaha" /></p>  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=ambient_gradient" alt="khamessitaha" /></p> <br />
+const taha: SpaceExplorer = {
+  name: "Taha Khamessi",
+  title: "Full Stack Developer & ML Enthusiast",
+  location: "Tunisia 🌍",
+  available: true,
+  skills: [
+    "Space Technology",
+    "Full Stack Development",
+    "Machine Learning",
+    "3D Graphics",
+    "Real-time Systems"
+  ],
+  currentProject: "2024 NASA Space Apps Challenge",
+  contact: "taha.khamessi@gmail.com"
+};
 
+class Philosophy {
+  static readonly quote: string = 
+    "I don't hold the planets and stars " +
+    "responsible for my choices.";
+}
+```
 
+<div align="center">
+  <h2>🎯 Mission Objectives</h2>
+</div>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&icon_color=00C9FF&title_color=00C9FF&text_color=FFFFFF" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=khamessitaha&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
+<div align="center">
+  <h2>🛠️ Technology Arsenal</h2>
+</div>
 
+<details>
+<summary>🎨 Frontend & Creative Development</summary>
+<br>
+<div align="center">
 
+```mermaid
+mindmap
+  root((Frontend))
+    Frameworks
+      React
+      Angular
+      Flutter
+    3D Graphics
+      Three.js
+      Unity
+      WebGL
+    UI/UX
+      Tailwind
+      Material UI
+```
 
+</div>
+</details>
 
+<details>
+<summary>🧠 AI & Machine Learning Laboratory</summary>
+<br>
+<div align="center">
 
+```mermaid
+mindmap
+  root((AI and ML))
+    Deep Learning
+      TensorFlow/Lite
+      PyTorch
+      Keras
+    Computer Vision
+      OpenCV
+      MediaPipe
+      YOLO
+    Data Science
+      Pandas
+      NumPy
+      Scikit-learn
+      
+```
 
-## Star and Follow, or this snake might just devour your contributions too! 🐍<br />
+</div>
+</details>
 
+<details>
+<summary>⚡ Backend & Infrastructure Command Center</summary>
+<br>
+<div align="center">
 
-![snake gif](https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg)
+```mermaid
+mindmap
+  root((Backend))
+    Server
+      Node.js
+      Spring
+      Express
+    Database
+      MongoDB
+      MySQL
+      Firebase/Firestore
+    DevOps
+      Docker
+      CI/CD
+    Hosting
+      Netlify
+      Github Pages
+      Vercel
+      Firebase Hosting
+```
+
+</div>
+</details>
+
+<div align="center">
+  <h2>📊 Mission Statistics</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=nord&no-frame=true&no-bg=true&column=7&title=Commits,PR,Repositories,Issues,Stars,Followers,MultiLanguage" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <h2>🌐 Quantum Entanglements (Social Links)</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tahakhammassi)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/taha-khamessi)
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YjfDPKrs)
+</div>
+
+### 🎯 Skills & Expertise
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px'}}}%%
+pie showData
+    title Core Technology Distribution
+    "Frontend & 3D" : 30
+    "Machine Learning & AI" : 25
+    "Backend & DevOps" : 25
+    "Space Technology" : 20
+```
+
+| 💻 Programming  | 🎨 Frontend & 3D | 🤖 AI & ML | ⚙️ Backend & DevOps |
+|----------------|-----------------|------------|-------------------|
+| ![Python](https://img.shields.io/badge/Python-★★★★★-00C9FF?style=flat-square&logo=python) | ![React](https://img.shields.io/badge/React-★★★★★-00C9FF?style=flat-square&logo=react) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-92FE9D?style=flat-square&logo=tensorflow) | ![Node.js](https://img.shields.io/badge/Node.js-★★★★★-00C9FF?style=flat-square&logo=node.js) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-00C9FF?style=flat-square&logo=javascript) | ![Three.js](https://img.shields.io/badge/Three.js-★★★★★-00C9FF?style=flat-square&logo=three.js) | ![PyTorch](https://img.shields.io/badge/PyTorch-★★★★☆-92FE9D?style=flat-square&logo=pytorch) | ![Docker](https://img.shields.io/badge/Docker-★★★★☆-92FE9D?style=flat-square&logo=docker) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-92FE9D?style=flat-square&logo=typescript) | ![Angular](https://img.shields.io/badge/Angular-★★★★☆-92FE9D?style=flat-square&logo=angular) | ![scikit--learn](https://img.shields.io/badge/scikit--learn-★★★★☆-92FE9D?style=flat-square&logo=scikit-learn) | ![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-92FE9D?style=flat-square&logo=mongodb) |
+| ![Java](https://img.shields.io/badge/Java-★★★★☆-92FE9D?style=flat-square&logo=java) | ![Unity](https://img.shields.io/badge/Unity-★★★★☆-92FE9D?style=flat-square&logo=unity) | ![OpenCV](https://img.shields.io/badge/OpenCV-★★★★☆-92FE9D?style=flat-square&logo=opencv) | ![Spring](https://img.shields.io/badge/Spring-★★★★☆-92FE9D?style=flat-square&logo=spring) |
+
+</div>
+
+### 📊 Weekly Development Breakdown
+
+```text
+JavaScript   █████████████░░░░░░░░   45.2%
+Python       ████████░░░░░░░░░░░░░   25.8%
+TypeScript   ██████░░░░░░░░░░░░░░░   15.3%
+HTML/CSS     ████░░░░░░░░░░░░░░░░░   10.2%
+Other        ██░░░░░░░░░░░░░░░░░░░   3.5%
+```
+
+### 🌌 Recent Space Missions (Projects)
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <div align="center">
+        <img src="https://dummyimage.com/600x300/000/fff" width="400" alt="Project 1"/>
+        <p>
+          <a href="https://github.com/username/repo1">
+            <img src="https://img.shields.io/badge/Code-00C9FF?style=for-the-badge&logo=github&logoColor=black" />
+          </a>
+          <a href="https://project1.demo">
+            <img src="https://img.shields.io/badge/Demo-92FE9D?style=for-the-badge&logo=googlechrome&logoColor=black" />
+          </a>
+        </p>
+        <p><strong>Technologies Used:</strong> React, Node.js, MongoDB</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <div align="center">
+        <img src="https://dummyimage.com/600x300/000/fff" width="400" alt="Project 2"/>
+        <p>
+          <a href="https://github.com/username/repo2">
+            <img src="https://img.shields.io/badge/Code-00C9FF?style=for-the-badge&logo=github&logoColor=black" />
+          </a>
+          <a href="https://project2.demo">
+            <img src="https://img.shields.io/badge/Demo-92FE9D?style=for-the-badge&logo=googlechrome&logoColor=black" />
+          </a>
+        </p>
+        <p><strong>Technologies Used:</strong> Three.js, WebGL, TensorFlow</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+### 📈 Contribution Constellation
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=khamessitaha&bg_color=transparent&color=00C9FF&line=92FE9D&point=00C9FF&hide_border=true" width="95%" alt="Contribution Graph"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+</div>
