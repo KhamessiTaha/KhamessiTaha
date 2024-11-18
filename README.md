@@ -1,4 +1,4 @@
-# Taha Khamessi | Full Stack Developer & Technology Innovator
+# Taha Khamessi | Full Stack Developer
 
 ## 🚀 Professional Summary
 
