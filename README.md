@@ -21,16 +21,17 @@ Innovative Full Stack Developer with a passion for cutting-edge technologies, sp
 
 ## 🌟 Featured Projects
 
-### [Project Name 1: Advanced Web Platform]
-- **Technologies**: React, Node.js, MongoDB
-- Developed a scalable web application with advanced features
-- Implemented efficient state management and responsive design
-- [View Project](https://github.com/username/project1)
+### [CosmicVue: 3D Orrery Simulation]
+- **Technologies**: React, THREE.js
+- Developed a real-time, interactive web application for solar system simulation
+- Received recognition as a Global Nominee for the 2024 NASA International Space Apps Challenge
+- [Github Repo](https://github.com/khamessitaha/CosmoArchitects)
+- [Project Demo](https://cosmicvue.netlify.app/)
 
-### [Project Name 2: AI-Powered 3D Visualization]
-- **Technologies**: Three.js, TensorFlow, WebGL
-- Created an interactive 3D visualization platform
-- Integrated machine learning for dynamic rendering
+### [CarVision: AI-Powered Mobile App]
+- **Technologies**: Flutter, Node.js/Express.js, Tensorflow/TFlite
+- Created a mobile app with Flutter Node.js and MongoDB.
+- Developed a deep neural network using TensorFlow to recognize and classify cars from images and predict their prices
 - [View Project](https://github.com/username/project2)
 
 ## 📊 GitHub Analytics
