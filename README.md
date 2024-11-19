@@ -24,7 +24,7 @@ Innovative Full Stack Developer with a passion for cutting-edge technologies, sp
 ### [CosmicVue: 3D Orrery Simulation]
 - **Technologies**: React, THREE.js
 - Developed a real-time, interactive web application for solar system simulation
-- Received recognition as a Global Nominee for the 2024 NASA International Space Apps Challenge
+- Received recognition as a Global Finalist for the 2024 NASA International Space Apps Challenge
 - [Github Repo](https://github.com/khamessitaha/CosmoArchitects)
 - [Project Demo](https://cosmicvue.netlify.app/)
 
