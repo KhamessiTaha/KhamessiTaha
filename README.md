@@ -1,4 +1,4 @@
-# Taha Khamessi | Full Stack Developer
+# Taha Khamessi | Full/MERN Stack Developer
 
 ## 🚀 Professional Summary
 
