@@ -32,7 +32,7 @@ Innovative Full Stack Developer with a passion for cutting-edge technologies, sp
 - **Technologies**: Flutter, Node.js/Express.js, Tensorflow/TFlite
 - Created a mobile app with Flutter Node.js and MongoDB.
 - Developed a deep neural network using TensorFlow to recognize and classify cars from images and predict their prices
-- [View Project](https://github.com/username/project2)
+- [View Project](https://github.com/khamessitaha/CarVisionProject)
 
 ## 📊 GitHub Analytics
 
