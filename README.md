@@ -41,14 +41,14 @@ Innovative Full Stack Developer with a passion for cutting-edge technologies, sp
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=firefox)](https://khamessitaha.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
 
 ## 🏆 Achievements & Certifications
 - NASA Space Apps Challenge Leader
 - Advanced Machine Learning Certification
-- Full Stack Development Professional Certification
+- B.Sc. Computer Science (GPA: 3.7/4.0)
 
 ---
 
