@@ -1,37 +1,11 @@
-<!-- Space-themed Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=300&section=header&text=Taha%20Khamessi&fontSize=90&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Space%20Tech%20Explorer&descAlignY=65" width="100%" />
-</div>
+# Taha Khamessi | Full Stack Developer & Tech Innovator 🚀
 
-<!-- Animated Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<!-- Dynamic Typing -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=00F726&center=true&vCenter=true&width=935&lines=Welcome+to+My+Digital+Space+Station+🚀;Full+Stack+Developer+%26+Space+Enthusiast+👨‍💻;Crafting+Code+Among+the+Stars+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F726&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Space+Tech+Explorer;3D+Graphics+Developer)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Space Mission Badges -->
-<div align="center">
-  <a href="https://github.com/khamessitaha">
-    <img src="https://img.shields.io/badge/Space%20Projects-3+-blue?style=for-the-badge&logo=spacex&logoColor=white" />
-  </a>
-  <a href="https://github.com/khamessitaha">
-    <img src="https://img.shields.io/badge/Mission%20Status-Active-success?style=for-the-badge&logo=statuspage&logoColor=white" />
-  </a>
-  <a href="https://github.com/khamessitaha">
-    <img src="https://img.shields.io/badge/Coding%20Time-1000hrs+-red?style=for-the-badge&logo=codecademy&logoColor=white" />
-  </a>
-</div>
-
-<!-- Space-themed separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://khamessitaha.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
@@ -42,7 +16,7 @@
 
 ## 👨‍💻 About Me 
 
-> 🚀 Exploring the intersection of code and cosmos, transforming ideas into digital reality.
+> 🌟 Transforming ideas into code, one commit at a time.
 
 ```javascript
 const taha = {
