@@ -156,13 +156,6 @@ mindmap
 
 </div>
 
-## 🎵 Currently Vibing To
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
 ## 🌐 Let's Connect!
 
 <div align="center">
@@ -180,8 +173,6 @@ mindmap
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😄 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### 👾 Fun Fact
 *"There are 10 types of people in the world. Those who understand binary and those who don't."*
