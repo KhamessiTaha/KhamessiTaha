@@ -1,96 +1,199 @@
 # Taha Khamessi | Full Stack Developer & Tech Innovator 🚀
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F726&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Space+Tech+Explorer;3D+Graphics+Developer)](https://git.io/typing-svg)
+
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://khamessitaha.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
 
-## About Me 👨‍💻
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
-> Pioneering Full Stack Developer merging cutting-edge web technologies with space tech, ML, and immersive 3D experiences. NASA Space Apps Challenge Leader passionate about pushing technological boundaries.
+## 👨‍💻 About Me 
+
+> 🌟 Transforming ideas into code, one commit at a time.
 
 ```javascript
 const taha = {
     role: "Full Stack Developer",
+    location: "Building the future, one line of code at a time 🚀",
     code: ["JavaScript", "TypeScript", "Python", "Java"],
+    askMeAbout: ["web dev", "space tech", "AI/ML", "3D graphics"],
     technologies: {
-        frontend: ["React", "Angular", "Three.js", "WebGL"],
-        backend: ["Node.js", "Express", "Spring"],
+        frontend: {
+            js: ["React", "Angular"],
+            css: ["Tailwind", "SASS", "Bootstrap"],
+            graphics: ["Three.js", "WebGL"]
+        },
+        backend: {
+            js: ["Node", "Express"],
+            java: ["Spring"],
+            python: ["Django"]
+        },
         ai_ml: ["TensorFlow", "PyTorch", "OpenCV"],
-        devOps: ["Docker", "CI/CD", "Firebase"],
-        databases: ["MongoDB", "PostgreSQL"]
+        devOps: ["Docker", "Kubernetes", "CI/CD", "Firebase"],
+        databases: ["MongoDB", "PostgreSQL"],
+        misc: ["GraphQL", "Socket.IO", "Redux"]
     },
-    currentFocus: "Building scalable web applications with immersive 3D experiences"
+    currentlyLearning: ["Rust", "WebAssembly", "Cloud Architecture"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-## 🏆 Notable Achievements
+## 🎯 Current Focus
 
-- 🌎 **NASA Space Apps Challenge Global Finalist** (2024)
-- 📚 **Advanced Machine Learning Certification**
-- 🎓 **B.Sc. Computer Science** - GPA: 3.7/4.0
-- 💻 **Full Stack Development Lead** on multiple enterprise projects
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical" alt="contribution-streak" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khamessitaha&theme=radical" alt="coding-time" />
+    </td>
+  </tr>
+</table>
 
-## 🚀 Featured Projects
+## 🏆 Achievements & Recognition
 
-### CosmicVue - Interactive Solar System Simulator
+<div align="center">
+
+```mermaid
+mindmap
+  root((Taha's Journey))
+    NASA Space Apps
+      Global Finalist 2024
+      Project Lead
+    Education
+      B.Sc Computer Science
+      GPA 3.7/4.0
+      ML Certification
+    Technical
+      Full Stack Development
+      AI/ML Expertise
+      3D Graphics
+```
+
+</div>
+
+## 🎨 Featured Projects
+
+### 🌌 CosmicVue - Interactive Solar System
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+</div>
+
 [![Project Demo](https://img.shields.io/badge/Live_Demo-View_Project-blue?style=for-the-badge)](https://cosmicvue.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/khamessitaha/CosmoArchitects)
 
-An immersive 3D solar system simulation recognized by NASA's Space Apps Challenge.
+<details>
+<summary>🔍 Project Details</summary>
 
-- 🌟 Real-time planetary motion simulation
-- 🎮 Interactive camera controls and orbit visualization
-- 💻 Built with React and THREE.js
+- 🌟 Real-time planetary motion simulation with accurate orbital mechanics
+- 🎮 Interactive camera controls with zoom, pan, and orbit functionality
+- 📊 Dynamic data visualization of planetary statistics
 - 🏆 Global Finalist - NASA Space Apps Challenge 2024
+- 🔧 Custom shaders for realistic planet rendering
+</details>
 
-### CarVision - AI-Powered Vehicle Recognition
+### 🚗 CarVision - AI Vehicle Recognition
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/khamessitaha/CarVisionProject)
 
-Mobile application leveraging AI for car recognition and price prediction.
+<details>
+<summary>🔍 Project Details</summary>
 
-- 🚗 Real-time car recognition and classification
-- 💡 Custom TensorFlow model for price prediction
-- 📱 Cross-platform mobile app built with Flutter
-- ⚡ RESTful API backend with Node.js/Express
+- 🤖 Custom-trained AI model for vehicle recognition
+- 💰 Price prediction algorithm using historical data
+- 📱 Cross-platform mobile application
+- ⚡ Real-time processing and analysis
+- 🔄 Continuous model improvement through user feedback
+</details>
 
-## 💻 Technical Arsenal
+## 💻 Tech Stack & Tools
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+<div align="center">
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🔧 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## 📊 GitHub Statistics
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical)
-  
+<img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%" alt="trophy" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" />
+
 </div>
 
-## 📫 Let's Connect!
+## 🎵 Currently Vibing To
+<div align="center">
+  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
+</div>
 
-- 💼 [LinkedIn](https://linkedin.com/in/taha-khamessi-396aba1a3)
-- 🌐 [Portfolio](https://khamessitaha.github.io/)
-- ✉️ [Email](mailto:taha.khamessi@gmail.com)
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khamessitaha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://khamessitaha.github.io/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😄 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+### 👾 Fun Fact
+*"There are 10 types of people in the world. Those who understand binary and those who don't."*
+
+</div>
 
 ---
 
 <div align="center">
   
-*"Innovation distinguishes between a leader and a follower." - Steve Jobs*
+📝 *Created with ❤️ by Taha Khamessi*
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=khamessitaha&label=Profile%20Views&labelColor=%23697689&countColor=%23263759)](https://visitorbadge.io/status?path=khamessitaha)
 
 </div>
