@@ -64,7 +64,7 @@ const taha = {
 
 ```mermaid
 mindmap
-  root((Taha's Journey))
+  root((My Journey))
     NASA Space Apps
       Global Finalist 2024
       Project Lead
