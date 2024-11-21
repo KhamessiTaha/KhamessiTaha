@@ -1,4 +1,4 @@
-# Taha Khamessi | Full Stack Developer & Tech Innovator 🚀
+# Taha Khamessi | Full Stack Developer 🚀
 
 <div align="center">
   
@@ -184,7 +184,5 @@ mindmap
 <div align="center">
   
 📝 *Created with ❤️ by Taha Khamessi*
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=khamessitaha&label=Profile%20Views&labelColor=%23697689&countColor=%23263759)](https://visitorbadge.io/status?path=khamessitaha)
 
 </div>
