@@ -71,7 +71,7 @@ mindmap
     Education
       B.Sc Computer Science
       GPA 3.7/4.0
-      ML Certification
+      Machine Learning Specialization Certificate
     Technical
       Full Stack Development
       AI/ML Expertise
