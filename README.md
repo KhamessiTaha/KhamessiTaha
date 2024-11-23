@@ -22,12 +22,12 @@
 const taha = {
     role: "Full Stack Developer",
     location: "Building the future, one line of code at a time 🚀",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    code: ["JavaScript", "Python", "Java"],
     askMeAbout: ["web dev", "space tech", "AI/ML", "3D graphics"],
     technologies: {
         frontend: {
             js: ["React", "Angular"],
-            css: ["Tailwind", "SASS", "Bootstrap"],
+            css: ["Tailwind", "Bootstrap"],
             graphics: ["Three.js", "WebGL"]
         },
         backend: {
@@ -36,11 +36,11 @@ const taha = {
             python: ["Django"]
         },
         ai_ml: ["TensorFlow", "PyTorch", "OpenCV"],
-        devOps: ["Docker", "Kubernetes", "CI/CD", "Firebase"],
+        devOps: ["Docker", "CI/CD", "Firebase"],
         databases: ["MongoDB", "PostgreSQL"],
-        misc: ["GraphQL", "Socket.IO", "Redux"]
+        misc: ["GraphQL", "Socket.IO"]
     },
-    currentlyLearning: ["Rust", "WebAssembly", "Cloud Architecture"],
+    currentlyLearning: ["WebAssembly", "Cloud Architecture"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
