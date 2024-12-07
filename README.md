@@ -131,13 +131,13 @@ mindmap
 <div align="center">
 
 ### 🛠 Language Galaxies
-![Languages](https://skillicons.dev/icons?i=js,python,typescript,java,rust&theme=dark)
+![Languages](https://skillicons.dev/icons?i=js,python,java,dart&theme=dark)
 
 ### 🌐 Tech Nebulae
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,docker,kubernetes,tensorflow,nextjs&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,docker,tensorflow,mongodb&theme=dark)
 
 ### 🤖 AI & Machine Learning Realms
-![AI Tools](https://skillicons.dev/icons?i=pytorch,opencv,visualstudio,github&theme=dark)
+![AI Tools](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,visualstudio,github&theme=dark)
 
 </div>
 
