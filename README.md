@@ -29,7 +29,7 @@
   </tr>  
 </table>
 
-
+![snake gif](https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ## 👨‍💻 About Me 
@@ -83,9 +83,6 @@ mindmap
 ```
 
 </div>
-
-## 🎯 Current Focus
-
 
 
 ## 🎨 Featured Projects
@@ -159,9 +156,6 @@ mindmap
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 👾 Fun Fact
-*"There are 10 types of people in the world. Those who understand binary and those who don't."*
 
 📝 *Created with ❤️ by Taha Khamessi*
 </div>
