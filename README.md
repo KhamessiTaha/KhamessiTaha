@@ -137,7 +137,7 @@ mindmap
 ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,firebase,spring,mongodb,mysql&theme=dark)
 
 ### 🤖 AI & Machine Learning Realms
-![AI Tools](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,visualstudio,github&theme=dark)
+![AI Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,jupyter,keras,sklearn,pandas,numpy&theme=dark)
 
 </div>
 
