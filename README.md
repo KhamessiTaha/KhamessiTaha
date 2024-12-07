@@ -134,10 +134,10 @@ mindmap
 ![Languages](https://skillicons.dev/icons?i=js,python,java,dart&theme=dark)
 
 ### 🌐 Web Development
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,firebase,spring,mongodb,mysql&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,threejs,nodejs,express,firebase,spring,mongodb,mysql,postman&theme=dark)
 
 ### 🤖 AI & Machine Learning Realms
-![AI Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,keras,sklearn,pandas,numpy&theme=dark)
+![AI Tools](https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark)
 
 </div>
 
