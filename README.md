@@ -1,79 +1,111 @@
-# Taha Khamessi | Full Stack Developer & Space Tech Innovator 🚀
+# Taha Khamessi | Full Stack Developer 🚀
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F726&center=true&vCenter=true&width=435&lines=Bridging+Code+and+Cosmos;AI+%26+ML+Visionary;Space+Technology+Pioneer)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://khamessitaha.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
+<!-- Animated Typing Header -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=00F726&center=true&vCenter=true&width=800&lines=Transforming+Ideas+into+Digital+Universes;Space+Tech+Explorer+%26+AI+Innovator;Code+is+my+Canvas%2C+Technology+is+my+Paint)
+
+<!-- Animated Wave Hand -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
+<!-- Profile Views with Animated Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=khamessitaha&label=Profile+Voyagers&color=0e75b6&style=for-the-badge&logo=rocket)
+
+<!-- Social Links with Hover Effects -->
+<p>
+<a href="https://linkedin.com/in/taha-khamessi-396aba1a3" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=fadeIn" />
+</a>
+<a href="https://github.com/khamessitaha" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:taha.khamessi@gmail.com">
+<img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 </div>
 
-## 🌟 About Me
+## 🌠 About Me: Cosmic Code Creator
 
-I'm a passionate Full Stack Developer with a mission to push the boundaries of technology, particularly at the intersection of AI, machine learning, and space exploration. With a strong academic background and a drive to solve complex challenges, I transform innovative ideas into cutting-edge software solutions.
+> "In the universe of technology, I'm not just writing code—I'm architecting digital constellations." 
 
-## 🏆 Professional Highlights
+### 🚀 Tech Superpowers
+```javascript
+const tahaKhamessi = {
+  💻 code: ["JavaScript", "Python", "TypeScript"],
+  🌐 mission: "Transforming complex problems into elegant solutions",
+  🔬 specialties: [
+    "Full Stack Development", 
+    "AI & Machine Learning", 
+    "Space Tech Innovation"
+  ],
+  🏆 currentQuest: "Pushing boundaries of tech and imagination"
+};
+```
 
-- **NASA Space Apps Hackathon Global Finalist (2024)**
-  - Led a groundbreaking project showcasing technical innovation and creative problem-solving
-- **Academic Excellence**
-  - B.Sc Computer Science | GPA: 3.7/4.0
-  - Advanced Machine Learning Specialization Certificate
-- **Technical Expertise**
-  - Full Stack Development
-  - AI & Machine Learning
-  - 3D Graphics and Visualization
+## 🌈 Tech Galaxy I Navigate
 
-## 🚀 Featured Projects
-
-### CosmicVue - Interactive Solar System Simulator
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-**Project Highlights:**
-- Developed a cutting-edge solar system simulation with precise orbital mechanics
-- Implemented custom WebGL shaders for photorealistic planet rendering
-- Created an intuitive, interactive user experience with advanced camera controls
-
-[🌐 Live Demo](https://cosmicvue.netlify.app/) | [💻 GitHub Repository](https://github.com/khamessitaha/CosmoArchitects)
-
-### CarVision - AI-Powered Vehicle Recognition Platform
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Project Highlights:**
-- Built a cross-platform mobile application with real-time vehicle recognition
-- Developed a custom AI model with continuous improvement mechanisms
-- Implemented advanced price prediction algorithms using machine learning
-
-[💻 GitHub Repository](https://github.com/khamessitaha/CarVisionProject)
-
-## 💻 Tech Ecosystem
+<div align="center">
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Technologies I Love
-- **Frontend:** React, Angular, Three.js
-- **Backend:** Node.js, Django, Spring
-- **AI/ML:** TensorFlow, PyTorch, OpenCV
-- **DevOps:** Docker, Kubernetes, CI/CD
+### My Tech Constellation
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Insights
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical)
+## 🌟 Stellar Projects
 
-## 🌐 Let's Connect
+### 🌌 CosmicVue: Solar System Simulator
+![Project Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Project-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/💻_GitHub-View_Code-black?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-khamessi-396aba1a3)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khamessitaha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://khamessitaha.github.io/)
+**Galactic Features:**
+- 🌍 Real-time planetary motion simulation
+- 🔭 Interactive cosmic exploration
+- 🎨 Photorealistic planet rendering
+
+### 🚗 CarVision: AI Vehicle Recognition
+![GitHub](https://img.shields.io/badge/💻_GitHub-View_Code-black?style=for-the-badge)
+
+**Intelligent Capabilities:**
+- 🤖 Custom AI vehicle recognition
+- 📱 Cross-platform mobile app
+- 💡 Continuous learning algorithms
+
+## 📊 Cosmic Coding Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical&background=000000&border=61DAFB&stroke=61DAFB)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical&background=000000)
+
+</div>
+
+## 🌠 Connect in the Digital Universe
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
+
+</div>
 
 ---
 
-*Crafting the future, one line of code at a time* 🚀
+<div align="center">
+
+### 💭 Cosmic Code Quote
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+*Crafting the future, one quantum of code at a time* 🚀
+
+</div>
