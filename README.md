@@ -1,142 +1,188 @@
-# Taha Khamessi | 🚀 Digital Architect of Infinite Possibilities
 
-<!-- Animated Cosmic Header -->
+# Taha Khamessi | Full Stack Developer 🚀
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,7&section=header&text=Taha%20Khamessi&fontSize=70&animation=scaleIn&fontAlignY=40&desc=🌌%20Code%20Wizard%20|%20Space%20Tech%20Innovator&descSize=30&descAlignY=70" width="100%"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F726&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Space+Tech+Explorer)](https://git.io/typing-svg)
 
-  <!-- Advanced Typing Animation -->
-  ![Dynamic Intro](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=500&color=00F726&center=true&width=1000&lines=🚀+Crafting+Digital+Universes;🤖+AI+Alchemist+%26+Machine+Learning+Maestro;🌠+Transforming+Impossible+into+Inevitable)
-
-  <!-- Interactive Social Badges -->
-  <p>
-    <a href="https://linkedin.com/in/taha-khamessi-396aba1a3">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect%20Quantum%20Network-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/khamessitaha">
-      <img src="https://img.shields.io/badge/GitHub-Explore%20Code%20Universe-black?style=for-the-badge&logo=github&logoColor=white&animation=fadeIn" alt="GitHub"/>
-    </a>
-  </p>
-
-  <!-- Animated Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Cosmic%20Explorers&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
-## 🌠 Quantum Code Manifesto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://khamessitaha.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+## 👨‍💻 About Me 
+
+> 🌟 Transforming ideas into code, one commit at a time.
 
 ```javascript
-const digitalArchitect = {
-  name: "Taha Khamessi",
-  mission: "Transforming abstract dreams into tangible digital realities",
-  superPowers: [
-    "Full Stack Sorcery",
-    "AI Consciousness Engineering",
-    "Space Tech Pioneering"
-  ],
-  coreBeliefs: {
-    code: "The ultimate form of creative expression",
-    innovation: "Pushing boundaries beyond conventional imagination",
-    learning: "A never-ending cosmic journey"
-  },
-  currentObjective: "Bridging human potential with technological frontier"
+const taha = {
+    role: "Full Stack Developer",
+    motto: "Building the future, one line of code at a time 🚀",
+    code: ["JavaScript", "Python", "Java"],
+    askMeAbout: ["web dev", "space tech", "AI/ML", "philosophy"],
+    technologies: {
+        frontend: {
+            js: ["React", "Angular"],
+            css: ["Tailwind", "Bootstrap"],
+            graphics: ["Three.js"]
+        },
+        backend: {
+            js: ["Node", "Express"],
+            java: ["Spring"],
+            python: ["Django"]
+        },
+        ai_ml: ["TensorFlow", "PyTorch", "OpenCV"],
+        devOps: ["Docker", "CI/CD", "Firebase"],
+        databases: ["MongoDB", "MySQL", "Firestore"],
+        misc: ["GraphQL", "Socket.IO"]
+    },
+    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-## 🌈 Technology Constellation
+## 🎯 Current Focus
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical" alt="contribution-streak" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khamessitaha&theme=radical" alt="coding-time" />
+    </td>
+  </tr>
+</table>
+
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-### 🛠 Language Galaxies
-![Languages](https://skillicons.dev/icons?i=js,python,typescript,java,rust&theme=dark)
-
-### 🌐 Tech Nebulae
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,docker,kubernetes,tensorflow,nextjs&theme=dark)
-
-### 🤖 AI & Machine Learning Realms
-![AI Tools](https://skillicons.dev/icons?i=pytorch,opencv,visualstudio,github&theme=dark)
+```mermaid
+mindmap
+  root((My Journey))
+    NASA Space Apps Hackathon
+      Global Finalist 2024
+      Project Lead
+    Education
+      B.Sc Computer Science
+      GPA 3.7/4.0
+      Machine Learning Specialization Certificate
+    Technical
+      Full Stack Development
+      AI/ML Expertise
+      3D Graphics
+```
 
 </div>
 
-## 🚀 Quantum Breakthrough Projects
+## 🎨 Featured Projects
 
-### 🌌 CosmicVue: Interstellar Simulation Realm
-![Project Status](https://img.shields.io/badge/🌠_Cosmic%20Simulator-NASA%20Finalist-blueviolet?style=for-the-badge)
+### 🌌 CosmicVue - Interactive Solar System
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+</div>
+
+[![Project Demo](https://img.shields.io/badge/Live_Demo-View_Project-blue?style=for-the-badge)](https://cosmicvue.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/khamessitaha/CosmoArchitects)
 
 <details>
-<summary>🔭 Unveil Cosmic Innovations</summary>
+<summary>🔍 Project Details</summary>
 
-**Interdimensional Features:**
-- 🌍 Photorealistic Planetary Dynamics
-- 🚀 Real-time Orbital Mechanics Simulation
-- 🌈 Immersive WebGL Rendering Techniques
-- 🏆 Global Recognition at NASA Space Apps
+- 🌟 Real-time planetary motion simulation with accurate orbital mechanics
+- 🎮 Interactive camera controls with zoom, pan, and orbit functionality
+- 📊 Dynamic data visualization of planetary statistics
+- 🏆 Global Finalist - NASA Space Apps Challenge 2024
+- 🔧 Custom shaders for realistic planet rendering
 </details>
 
-### 🚗 CarVision: Intelligent Vehicle Consciousness
-![Project Status](https://img.shields.io/badge/🤖_AI%20Recognition-Cutting%20Edge-black?style=for-the-badge)
+### 🚗 CarVision - AI Vehicle Recognition
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/khamessitaha/CarVisionProject)
 
 <details>
-<summary>🧠 Explore Intelligent Insights</summary>
+<summary>🔍 Project Details</summary>
 
-**Revolutionary Capabilities:**
-- 🌐 Cross-Platform Mobile Intelligence
-- 🤖 Advanced Machine Learning Models
-- 💡 Continuous Adaptive Learning
-- 🔍 Real-time Vehicle Recognition Ecosystem
+- 🤖 Custom-trained AI model for vehicle recognition
+- 💰 Price prediction algorithm using historical data
+- 📱 Cross-platform mobile application
+- ⚡ Real-time processing and analysis
+- 🔄 Continuous model improvement through user feedback
 </details>
 
-## 📊 Cosmic Performance Metrics
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-<!-- Animated GitHub Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical&background=000000&border=61DAFB&stroke=61DAFB)
+### 🔧 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-<!-- 3D Contribution Landscape -->
-![3D Contributions](https://github-profile-3d-contrib.vercel.app/api/image?username=khamessitaha&theme=midnight)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- Language Breakdown -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical&background=000000)
+### ⚙️ Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 </div>
 
-## 🌠 Quantum Learning Trajectory
+## 📊 GitHub Analytics
 
 <div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%" alt="trophy" />
 
-### 🎓 Current Knowledge Expansion
-- Advanced AI/ML Specialization
-- Space Technology Innovations
-- Quantum Computing Foundations
-
-### 🏆 Recent Achievements
-- NASA Space Apps Global Finalist
-- Machine Learning Certification
-- Full Stack Development Mastery
+<img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" />
 
 </div>
 
-## 🌍 Cosmic Communication Channels
+## 🌐 Let's Connect!
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khamessitaha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://khamessitaha.github.io/)
 
-<!-- Animated Contact Portals -->
-[![LinkedIn](https://img.shields.io/badge/Quantum%20Network-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://linkedin.com/in/taha-khamessi-396aba1a3)
-[![Email](https://img.shields.io/badge/Interdimensional%20Signals-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&animation=bounce)](mailto:taha.khamessi@gmail.com)
-
-<!-- Hilarious Coding GIF -->
-<img src="https://media.giphy.com/media/배열/836qezZZDUWM/giphy.gif" width="300" alt="Coding Humor"/>
 </div>
 
 ---
 
 <div align="center">
 
-### 💫 Digital Philosopher's Creed
-*Coding: Where imagination transcends logic* 🚀✨
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Visitor Cosmic Counter -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khamessitaha.khamessitaha)
 
-*Architecting futures, one quantum of code at a time* 🌌
+### 👾 Fun Fact
+*"There are 10 types of people in the world. Those who understand binary and those who don't."*
+
+</div>
+
+---
+
+<div align="center">
+  
+📝 *Created with ❤️ by Taha Khamessi*
 
 </div>
