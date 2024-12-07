@@ -11,7 +11,8 @@
 <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics![cosmicvue](https://github.com/user-attachments/assets/33c41bde-a0fe-4569-9d31-6494ff0c65cc)
+
 
 <div align="center">
   
