@@ -21,14 +21,14 @@
 ```javascript
 const taha = {
     role: "Full Stack Developer",
-    location: "Building the future, one line of code at a time 🚀",
+    motto: "Building the future, one line of code at a time 🚀",
     code: ["JavaScript", "Python", "Java"],
-    askMeAbout: ["web dev", "space tech", "AI/ML", "3D graphics"],
+    askMeAbout: ["web dev", "space tech", "AI/ML", "philosophy"],
     technologies: {
         frontend: {
             js: ["React", "Angular"],
             css: ["Tailwind", "Bootstrap"],
-            graphics: ["Three.js", "WebGL"]
+            graphics: ["Three.js"]
         },
         backend: {
             js: ["Node", "Express"],
@@ -37,10 +37,9 @@ const taha = {
         },
         ai_ml: ["TensorFlow", "PyTorch", "OpenCV"],
         devOps: ["Docker", "CI/CD", "Firebase"],
-        databases: ["MongoDB", "PostgreSQL"],
+        databases: ["MongoDB", "MySQL", "Firestore"],
         misc: ["GraphQL", "Socket.IO"]
     },
-    currentlyLearning: ["WebAssembly", "Cloud Architecture"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -65,7 +64,7 @@ const taha = {
 ```mermaid
 mindmap
   root((My Journey))
-    NASA Space Apps
+    NASA Space Apps Hackathon
       Global Finalist 2024
       Project Lead
     Education
