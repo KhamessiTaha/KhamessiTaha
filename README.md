@@ -24,7 +24,7 @@
     
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" /></td>
+    <td class='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khamessitaha&theme=radical" alt="coding-time" /></td>
   </tr>  
 </table>
