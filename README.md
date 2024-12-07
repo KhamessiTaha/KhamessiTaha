@@ -3,9 +3,9 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=Transforming+Ideas+into+Code+%F0%9F%92%A1;Bridging+Imagination+and+Technology+%F0%9F%8C%89;Solving+Complex+Challenges+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
-</div>
 
-<div align="center">
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://khamessitaha.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
