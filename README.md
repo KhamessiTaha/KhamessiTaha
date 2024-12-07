@@ -21,9 +21,11 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=radical" alt="stats" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical" alt="contribution-streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical" alt="contribution-streak" /></td>
+    
   </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" /></td>
+  </tr>  
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" />
