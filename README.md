@@ -130,11 +130,11 @@ mindmap
 
 <div align="center">
 
-### 🛠 Language Galaxies
+### 🛠 Languages
 ![Languages](https://skillicons.dev/icons?i=js,python,java,dart&theme=dark)
 
-### 🌐 Tech Nebulae
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,docker,tensorflow,mongodb&theme=dark)
+### 🌐 Web Development
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,firebase,docker,mongodb,mysql&theme=dark)
 
 ### 🤖 AI & Machine Learning Realms
 ![AI Tools](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,visualstudio,github&theme=dark)
