@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-## 📊 GitHub Analytics![cosmicvue](https://github.com/user-attachments/assets/33c41bde-a0fe-4569-9d31-6494ff0c65cc)
+## 📊 GitHub Analytics
 
 
 <div align="center">
@@ -98,7 +98,7 @@ mindmap
 
 <!-- Project Preview Image -->
 <div align="center">
-  <img src="path/to/cosmicvue-preview.png" alt="CosmicVue Project Preview" width="600">
+  ![cosmicvue](https://github.com/user-attachments/assets/33c41bde-a0fe-4569-9d31-6494ff0c65cc)
 </div>
 
 <!-- Project Links -->
