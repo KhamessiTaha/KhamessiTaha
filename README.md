@@ -117,7 +117,7 @@ mindmap
 - 🌟 Real-time planetary motion simulation with accurate orbital mechanics
 - 🎮 Interactive camera controls with zoom, pan, and orbit functionality
 - 📊 Dynamic data visualization of planetary statistics
-- 🏆 Global Finalist - NASA Space Apps Challenge 2024
+- 🏆 Global Finalist - 2024 NASA Space Apps Challenge
 - 🔧 Custom shaders for realistic planet rendering
 </details>
 
