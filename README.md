@@ -1,18 +1,30 @@
-
 # Taha Khamessi | Full Stack Developer 🚀
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F726&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Space+Tech+Explorer)](https://git.io/typing-svg)
 
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)](https://khamessitaha.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  
+<img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%" alt="trophy" />
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=radical" alt="stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical" alt="contribution-streak" /></td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" />
 </div>
 
 ## 👨‍💻 About Me 
@@ -45,19 +57,6 @@ const taha = {
 };
 ```
 
-## 🎯 Current Focus
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical" alt="contribution-streak" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khamessitaha&theme=radical" alt="coding-time" />
-    </td>
-  </tr>
-</table>
-
 ## 🏆 Achievements & Recognition
 
 <div align="center">
@@ -78,6 +77,12 @@ mindmap
       3D Graphics
 ```
 
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khamessitaha&theme=radical" alt="coding-time" />
 </div>
 
 ## 🎨 Featured Projects
@@ -145,18 +150,6 @@ mindmap
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=khamessitaha&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%" alt="trophy" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=radical" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical" alt="languages" />
-
-</div>
-
-
 ---
 
 <div align="center">
@@ -164,16 +157,8 @@ mindmap
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ### 👾 Fun Fact
 *"There are 10 types of people in the world. Those who understand binary and those who don't."*
 
-</div>
-
----
-
-<div align="center">
-  
 📝 *Created with ❤️ by Taha Khamessi*
-
 </div>
