@@ -89,13 +89,26 @@ mindmap
 
 ### 🌌 CosmicVue - Interactive Solar System
 <div align="center">
+  <!-- Project Technologies Badges -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
 </div>
 
-[![Project Demo](https://img.shields.io/badge/Live_Demo-View_Project-blue?style=for-the-badge)](https://cosmicvue.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/khamessitaha/CosmoArchitects)
+<!-- Project Preview Image -->
+<div align="center">
+  <img src="path/to/cosmicvue-preview.png" alt="CosmicVue Project Preview" width="600">
+</div>
+
+<!-- Project Links -->
+<div align="center">
+  <a href="https://cosmicvue.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Project-blue?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/khamessitaha/CosmoArchitects" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github" alt="GitHub Repository" />
+  </a>
+</div>
 
 <details>
 <summary>🔍 Project Details</summary>
@@ -109,12 +122,23 @@ mindmap
 
 ### 🚗 CarVision - AI Vehicle Recognition
 <div align="center">
+  <!-- Project Technologies Badges -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/khamessitaha/CarVisionProject)
+<!-- Project Preview Image -->
+<div align="center">
+  <img src="path/to/carvision-preview.png" alt="CarVision Project Preview" width="600">
+</div>
+
+<!-- Project Links -->
+<div align="center">
+  <a href="https://github.com/khamessitaha/CarVisionProject" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github" alt="GitHub Repository" />
+  </a>
+</div>
 
 <details>
 <summary>🔍 Project Details</summary>
