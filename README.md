@@ -1,111 +1,127 @@
-# Taha Khamessi | Full Stack Developer 🚀
+# Taha Khamessi | 🚀 Digital Alchemist & Code Wizard
 
 <div align="center">
 
-<!-- Animated Typing Header -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=00F726&center=true&vCenter=true&width=800&lines=Transforming+Ideas+into+Digital+Universes;Space+Tech+Explorer+%26+AI+Innovator;Code+is+my+Canvas%2C+Technology+is+my+Paint)
+<!-- Animated Cosmic Background -->
+![Cosmic Coding](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,7&height=200&section=header&text=Taha%20Khamessi&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Space%20Tech%20Innovator&descAlignY=51&descAlign=62)
 
-<!-- Animated Wave Hand -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<!-- Advanced Typing Animation -->
+![Dynamic Introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=00F726&center=true&width=700&lines=🌌+Transforming+Ideas+into+Digital+Universes;🤖+AI+%26+Machine+Learning+Virtuoso;🚀+Bridging+Code+and+Cosmic+Frontiers)
 
-<!-- Profile Views with Animated Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=khamessitaha&label=Profile+Voyagers&color=0e75b6&style=for-the-badge&logo=rocket)
-
-<!-- Social Links with Hover Effects -->
+<!-- Animated Interactions -->
 <p>
-<a href="https://linkedin.com/in/taha-khamessi-396aba1a3" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=fadeIn" />
-</a>
-<a href="https://github.com/khamessitaha" target="_blank">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:taha.khamessi@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Cosmic%20Explorers&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/khamessitaha?tab=followers">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/khamessitaha?color=blue&logo=githubsponsors&style=for-the-badge&animation=blink" />
+  </a>
 </p>
 
+<!-- Animated Socials with Hover Effects -->
+<a href="https://linkedin.com/in/taha-khamessi-396aba1a3" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=bounce" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/TahaKhamessi" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white&animation=pulse" alt="Twitter" />
+</a>
+
+<!-- Animated Coding GIF -->
+<img src="https://media.giphy.com/media/배열/1ZDCwvJKzOGxBsNMcg/giphy.gif" width="300" alt="Coding Animation">
 </div>
 
-## 🌠 About Me: Cosmic Code Creator
+## 🌠 About Me: Code Cosmic Explorer
 
-> "In the universe of technology, I'm not just writing code—I'm architecting digital constellations." 
-
-### 🚀 Tech Superpowers
 ```javascript
 const tahaKhamessi = {
-  💻 code: ["JavaScript", "Python", "TypeScript"],
-  🌐 mission: "Transforming complex problems into elegant solutions",
-  🔬 specialties: [
-    "Full Stack Development", 
-    "AI & Machine Learning", 
-    "Space Tech Innovation"
+  🧠 philosophy: "Code is the language of possibility",
+  🚀 mission: "Transforming complex challenges into elegant solutions",
+  💡 specialties: [
+    "Full Stack Alchemy",
+    "AI Conjuring",
+    "Space Tech Pioneering"
   ],
-  🏆 currentQuest: "Pushing boundaries of tech and imagination"
+  🔮 currentQuest: "Pushing technological boundaries beyond imagination"
 };
 ```
 
-## 🌈 Tech Galaxy I Navigate
+## 🌈 My Technology Constellation
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 🛠 Languages & Frameworks
+![JavaScript](https://skillicons.dev/icons?i=js,python,typescript,java&theme=dark)
 
-### My Tech Constellation
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+### 🌐 Web Technologies
+![Web Technologies](https://skillicons.dev/icons?i=react,angular,nodejs,docker,kubernetes&theme=dark)
+
+### 🤖 AI & Machine Learning
+![AI Technologies](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)
 
 </div>
 
-## 🌟 Stellar Projects
+## 🚀 Quantum Projects
 
-### 🌌 CosmicVue: Solar System Simulator
-![Project Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Project-blue?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/💻_GitHub-View_Code-black?style=for-the-badge)
+### 🌌 CosmicVue: Interstellar Simulator
+![Project Demo](https://img.shields.io/badge/🚀_Cosmic_Simulator-View_Project-blueviolet?style=for-the-badge)
 
-**Galactic Features:**
-- 🌍 Real-time planetary motion simulation
-- 🔭 Interactive cosmic exploration
-- 🎨 Photorealistic planet rendering
+<!-- Animated Project Description -->
+<details>
+<summary>🔭 Explore Cosmic Innovations</summary>
 
-### 🚗 CarVision: AI Vehicle Recognition
-![GitHub](https://img.shields.io/badge/💻_GitHub-View_Code-black?style=for-the-badge)
+- 🌍 Photorealistic planetary dynamics
+- 🚀 Real-time orbital mechanics simulation
+- 🌈 Immersive WebGL rendering
+- 🏆 NASA Space Apps Global Finalist
+</details>
 
-**Intelligent Capabilities:**
-- 🤖 Custom AI vehicle recognition
-- 📱 Cross-platform mobile app
+### 🚗 CarVision: AI Vehicle Intelligence
+![GitHub](https://img.shields.io/badge/💻_AI_Powered_Recognition-View_Code-black?style=for-the-badge)
+
+<details>
+<summary>🤖 Intelligent Vehicle Insights</summary>
+
+- 🧠 Custom machine learning models
+- 📱 Cross-platform mobile experience
 - 💡 Continuous learning algorithms
+- 🔍 Real-time vehicle recognition
+</details>
 
-## 📊 Cosmic Coding Stats
+## 📊 Cosmic Coding Metrics
 
 <div align="center">
 
+<!-- Animated GitHub Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=radical&background=000000&border=61DAFB&stroke=61DAFB)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=radical&background=000000)
 
+<!-- 3D Contribution Graph -->
+![3D Contributions](https://github-profile-3d-contrib.vercel.app/api/image?username=khamessitaha&theme=midnight)
 </div>
 
-## 🌠 Connect in the Digital Universe
+## 🌠 Cosmic Testimonials
+
+<!-- Animated Quote Rotator -->
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌍 Let's Connect in the Digital Cosmos
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/taha-khamessi-396aba1a3)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:taha.khamessi@gmail.com)
+<!-- Animated Contact Buttons -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosmic_Network-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+[![Email](https://img.shields.io/badge/Quantum_Communication-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&animation=bounce)](mailto:taha.khamessi@gmail.com)
 
+<!-- Funny Coding GIF -->
+<img src="https://media.giphy.com/media/배열/836qezZZDUWM/giphy.gif" width="300" alt="Coding Humor">
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 Cosmic Code Quote
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 💫 Cosmic Code Manifesto
+*Crafting digital universes, one quantum of code at a time* 🚀✨
 
-*Crafting the future, one quantum of code at a time* 🚀
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khamessitaha.khamessitaha)
 
 </div>
