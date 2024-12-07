@@ -111,7 +111,7 @@ mindmap
   </a>
 </div>
 
-<details open>
+<details>
 <summary>🔍 Project Details</summary>
 
 - 🌟 Real-time planetary motion simulation with accurate orbital mechanics
@@ -141,7 +141,7 @@ mindmap
   </a>
 </div>
 
-<details open>
+<details>
 <summary>🔍 Project Details</summary>
 
 - 🤖 Custom-trained AI model for vehicle recognition
