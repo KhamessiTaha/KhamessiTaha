@@ -99,7 +99,7 @@ mindmap
 
 <!-- Project Preview Image -->
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/126385064/393520095-33c41bde-a0fe-4569-9d31-6494ff0c65cc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241207T133406Z&X-Amz-Expires=300&X-Amz-Signature=07a89043597a48afde19012c868cb3f13fc782f6346d15d18851ad2dc6511013&X-Amz-SignedHeaders=host" alt="CosmicVue Project Preview" width="400" style="max-width:100%; height:auto; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+  <img src="https://github.com/user-attachments/assets/0e4d0067-a2a5-40fa-bf95-5ba4306b26cc" alt="CosmicVue Project Preview" width="400" style="max-width:100%; height:auto; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 <!-- Project Links -->
