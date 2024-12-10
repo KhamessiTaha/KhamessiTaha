@@ -54,9 +54,8 @@ const taha = {
         backend: {
             js: ["Node", "Express"],
             java: ["Spring"],
-            python: ["Django"]
         },
-        ai_ml: ["TensorFlow", "PyTorch", "OpenCV"],
+        ai_ml: ["TensorFlow", "Keras", "Scikit learn", "OpenCV"],
         devOps: ["Docker", "CI/CD", "Firebase"],
         databases: ["MongoDB", "MySQL", "Firestore"],
         misc: ["GraphQL", "Socket.IO"]
