@@ -44,22 +44,14 @@ const taha = {
     role: "Full Stack Developer",
     motto: "Building the future, one line of code at a time 🚀",
     code: ["JavaScript", "Python", "Java"],
-    askMeAbout: ["web dev", "space tech", "AI/ML", "philosophy"],
     technologies: {
-        frontend: {
-            js: ["React", "Angular"],
-            css: ["Tailwind", "Bootstrap"],
-            graphics: ["Three.js"]
-        },
-        backend: {
-            js: ["Node", "Express"],
-            java: ["Spring"],
-        },
+        frontend: ["React", "Angular", "Tailwind", "Bootstrap", "Three.js"],
+        backend: ["Node", "Express", "Spring"],
         ai_ml: ["TensorFlow", "Keras", "Scikit learn", "OpenCV"],
         devOps: ["Docker", "CI/CD", "Firebase"],
         databases: ["MongoDB", "MySQL", "Firestore"],
-        misc: ["GraphQL", "Socket.IO"]
     },
+    interests: ["web dev", "space tech", "AI/ML", "philosophy"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
