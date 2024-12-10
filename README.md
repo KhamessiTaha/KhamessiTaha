@@ -41,7 +41,7 @@
 
 ```javascript
 const taha = {
-    role: "Full Stack Developer",
+    role: "Full Stack Developer | AI Specialist",
     motto: "Building the future, one line of code at a time 🚀",
     code: ["JavaScript", "Python", "Java"],
     technologies: {
