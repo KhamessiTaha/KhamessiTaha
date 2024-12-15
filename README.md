@@ -45,7 +45,7 @@ const taha = {
     motto: "Building the future, one line of code at a time 🚀",
     code: ["JavaScript", "Python", "Java"],
     technologies: {
-        frontend: ["React",NextJS , "Angular", "Tailwind", "Bootstrap", "Three.js"],
+        frontend: ["React", "NextJS", "Angular", "Tailwind", "Bootstrap", "Three.js"],
         backend: ["Node", "Express", "Spring"],
         ai_ml: ["TensorFlow", "Keras", "Scikit learn", "OpenCV"],
         devOps: ["Docker", "CI/CD", "Firebase"],
