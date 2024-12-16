@@ -1,5 +1,6 @@
 # Taha Khamessi | Full Stack Developer | AI Specialist 🚀
 
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=00F726&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Space+Tech+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
