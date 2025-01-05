@@ -98,8 +98,5 @@ mindmap
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 📝 *Created with ❤️ by Taha Khamessi*
 </div>
