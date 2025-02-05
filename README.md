@@ -81,12 +81,19 @@ mindmap
 
 ## 💻 Tech Stack & Tools
 <div align="center">
+ 
 ### 🛠 Languages
+
 ![Languages](https://skillicons.dev/icons?i=js,python,java,dart&theme=dark)
+
 ### 🌐 Web Development
+
 ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nestjs,threejs,nodejs,express,firebase,spring,mongodb,postgresql,mysql,postman&theme=dark)
+
 ### 🤖 AI & Machine Learning Realms
+
 ![AI Tools](https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark)
+
 </div>
 
 ---
