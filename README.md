@@ -47,10 +47,10 @@ const taha = {
     code: ["JavaScript", "Python", "Java"],
     technologies: {
         frontend: ["React", "NextJS", "Angular", "Tailwind", "Bootstrap", "Three.js"],
-        backend: ["Node","Nestjs" , "Expressjs", "Spring"],
+        backend: ["Node", "NestJS", "Express", "Spring"],
         ai_ml: ["TensorFlow", "Keras", "Scikit learn", "OpenCV"],
         devOps: ["Docker", "CI/CD", "Firebase"],
-        databases: ["MongoDB", "MySQL", "Firestore","PostgreSQL"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firestore"],
     },
     interests: ["web dev", "space tech", "AI/ML", "philosophy"],
     funFact: "There are two ways to write error-free programs; only the third one works"
