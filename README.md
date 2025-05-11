@@ -1,4 +1,4 @@
-# Taha Khamessi | Full Stack Developer | AI Specialist 🚀          
+# Taha Khamessi | Full Stack Developer | AI Specialist 🚀           
  
  
 <div align="center">
