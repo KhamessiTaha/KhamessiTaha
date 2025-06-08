@@ -87,7 +87,7 @@ mindmap
 
 ### 🌐 Web Development
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nestjs,threejs,nodejs,express,firebase,spring,mongodb,postgresql,mysql,postman&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,vite,nextjs,nestjs,threejs,nodejs,express,firebase,spring,mongodb,postgresql,mysql,postman&theme=dark)
 
 ### 🤖 AI & Machine Learning Realms
 
