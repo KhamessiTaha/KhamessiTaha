@@ -40,19 +40,6 @@ const taha = {
 };
 ```
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🎯 Achievement | 📅 Year | 🏅 Status |
-|:---|:---:|:---:|
-| **NASA Space Apps Hackathon** | 2024 | 🥇 Global Finalist |
-| **B.Sc Computer Science** | 2024 | 🎓 GPA: 3.7/4.0 |
-| **Machine Learning Specialization** | 2023 | ✅ Certified |
-| **Project Leadership** | Ongoing | 👥 Team Lead |
-
-</div>
-
 ## 💻 Tech Stack
 
 <div align="center">
