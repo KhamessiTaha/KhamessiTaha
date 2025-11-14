@@ -2,8 +2,6 @@
 
 Technical-Functional Consultant at Teamwill Group. Computer Science graduate specializing in AI/ML and full-stack development.
 
-**📍 Tunisia** • **NASA Space Apps 2024 Global Finalist** (Top 40/10,000+ teams)
-
 ## Technical Stack
 
 **Languages:** Python, JavaScript/TypeScript, Java
