@@ -81,9 +81,6 @@ const taha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamessitaha&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=khamessitaha&theme=tokyonight&hide_border=true" width="60%" />
