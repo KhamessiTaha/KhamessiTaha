@@ -36,6 +36,7 @@ const taha = {
     ai_ml:     ["TensorFlow", "Keras", "Scikit-learn", "OpenCV"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Firestore"],
     devops:    ["Docker", "CI/CD", "Firebase"],
+    api_performance_test: ["grafana k6 local", "k6_local_scripting"],
   },
   currently: "Building things that matter 🚀",
   funFact:   "There are two ways to write error-free programs; only the third one works.",
