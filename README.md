@@ -1,119 +1,57 @@
-[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://khamessitaha.github.io/)
-
-<h1 align="center">Hi 👋, I'm Taha Khamessi</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Physics & Cosmology Enthusiast</h3>
+<h1 align="center">Taha Khamessi</h1>
+<h3 align="center">Software Engineer · AI & Deep Learning · Astrophysics Enthusiast</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=0e75b6&style=flat" alt="khamessitaha"/>
+  <img src="https://komarev.com/ghpvc/?username=khamessitaha&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+**Full-Stack Developer & Technical Consultant at [Teamwill](https://www.teamwill.com)**, working across Java Spring, React, and Node.js.
+Passionate about the intersection of **AI, physics simulations, and software engineering** — building things that don't fit neatly into one category.
 
-- 💼 **Technical Functional Consultant | Full-Stack Developer at Teamwill**
-- ⚙️ Working mainly with **Java Spring, React, and Node.js**
-- 🧠 Interested in **cosmology, physics simulations, and AI**
-- 🚀 Building experimental software projects mixing **science and software engineering**
-- 📄 Resume:  
-  - 🇬🇧 English / 🇫🇷 French → **https://khamessitaha.github.io/resume**
-- 🌐 Portfolio → **https://khamessitaha.github.io/**
-- 📫 Contact → **taha.khamessi@gmail.com**
+🌐 [Portfolio](https://khamessitaha.github.io) · 📄 [Resume](https://khamessitaha.github.io/resume) · 📫 taha.khamessi@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌌 EternaVerseApp
-A **cosmology simulation game** where players create and maintain a universe by adjusting physical constants, quantum fluctuations, and cosmic evolution parameters.
-
-Tech concepts involved:
-- Physics simulation
-- procedural universe generation
-- quantum mechanics inspired systems
-- ML-assisted predictions
-
----
-
-### 🪐 CosmoArchitects
-A scientific visualization project focused on **cosmic structures and astrophysical systems**, exploring large-scale universe modeling and interaction.
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🌌 EternaVerseApp](https://github.com/KhamessiTaha/EternaVerseApp) | Cosmology simulation game — tune physical constants and watch your universe evolve | JS, ML |
+| [🪐 CosmoArchitects](https://github.com/KhamessiTaha/CosmoArchitects) | 3D orrery web app built for NASA Space Apps Challenge 2024 | Three.js, JS |
+| [🚗 CarVisionProject](https://github.com/KhamessiTaha/CarVisionProject) | Mobile app for real-time vehicle identification via AI | Flutter, Dart |
+| [📡 HRTU2 Pulsar Detection](https://github.com/KhamessiTaha/HRTU2-Pulsar-Detection) | ML pipeline for pulsar detection on the HTRU2 dataset | Python |
+| [🖥️ CCE](https://github.com/KhamessiTaha/CCE) | Collaborative real-time code editor with auth, chat, and sync | JS |
 
 ---
 
-### 🚗 CarVisionProject
-Computer vision project for **vehicle recognition and analysis** using machine learning techniques.
+## Tech Stack
+
+**AI / ML** · TensorFlow · Keras · Python  
+**Frontend** · React · JavaScript · HTML/CSS  
+**Backend** · Java Spring · Node.js  
+**Databases** · MongoDB · PostgreSQL  
+**Tools** · Docker · Git · Linux · Grafana · K6
 
 ---
 
-### 📡 HRTU2 Pulsar Detection
-Astrophysics ML project applying **deep learning models** to detect pulsars using the **HRTU2 dataset**.
-
----
-
-## 🧠 Tech Stack
-
-### Frontend
-- React
-- JavaScript
-- HTML / CSS
-
-### Backend
-- Java Spring
-- Node.js
-
-### Databases
-- MongoDB
-- PostgreSQL
-
-### AI / Machine Learning
-- TensorFlow
-- Keras
-
-### Testing / Observability
-- K6
-- Grafana
-
-### Tools
-- Git
-- Docker
-- Linux
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/taha-khamessi-396aba1a3" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://stackoverflow.com/users/taha-khamessi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
-</a>
-
-<a href="https://kaggle.com/tahakhammassi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
-</a>
-
-<a href="https://instagram.com/quantumquasar24" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&theme=ambient_gradient&show_icons=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=ambient_gradient"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=khamessitaha&theme=ambient_gradient&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khamessitaha&theme=ambient_gradient&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-khamessi-396aba1a3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/tahakhammassi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/khamessitaha/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6296-6812)
+
+---
 
 ![snake gif](https://github.com/KhamessiTaha/KhamessiTaha/blob/output/github-contribution-grid-snake-dark.svg)
